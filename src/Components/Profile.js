@@ -74,7 +74,7 @@ export default function Profile() {
           <div className="img-home">
             <h1 className="heading">{name}</h1>
             <p className="lead my-4">
-              Hey {name}, welcome to RESOC!
+              Hey {name}, welcome to VISTOFY!
               Manage your profile here.
             </p>
           </div>
