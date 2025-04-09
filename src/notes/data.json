@@ -1,0 +1,5063 @@
+[
+  {
+    "year": true,
+    "id": 0,
+    "name": "1st Year",
+    "shortName": "",
+    "description": "",
+    "links": [],
+    "contributors": [],
+    "tags": []
+  },
+  {
+    "id": 1,
+    "name": "Engineering Maths I",
+    "shortName": "Maths I",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1WP4f6yaKsc7D9lAe5iMceKQBJC1pHBwA/view?usp=sharing"
+      ],
+      [
+        "Notes- End Sem",
+        "https://drive.google.com/file/d/1SJoTOviij3hJ-_kqmtQkWXCPiZXTUxZo/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1oXeD2zeLtA-9V4WH9UQiKE3mKZtRjrLf/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Gayatri",
+        ""
+      ]
+    ],
+    "tags": [
+      "Maths",
+      "Engineering Maths",
+      "Maths I",
+      "Maths 1"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Constitution of India",
+    "shortName": "CI",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://docs.google.com/presentation/d/1IMpLtIMpVZP_MQZK9sddsFukRLQSNlxa/edit?usp=sharing&ouid=115613730661041204627&rtpof=true&sd=true"
+      ],
+      [
+        "Important Questions",
+        "https://drive.google.com/file/d/1tsD265MUmF_hpQBMVt2uB5AERZnkirhz/view?usp=share_link"
+      ],
+      [
+        "Important Questions- End Sem",
+        "https://drive.google.com/file/d/1ednPL-prcbuB96aB3VFSZmXY8_jyBKfp/view?usp=sharing"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1J9QUrj5UcGD8t781LTTuyKSd771Wwe9z/view?usp=sharing"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Constitution",
+      "Constitution of India",
+      "Constitution of India- End Sem",
+      "Constitution of India- Mid Sem",
+      "CI"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Basic Electronics Engineering",
+    "shortName": "BE",
+    "description": "",
+    "links": [
+      [
+        "Notes- Hand written",
+        "https://drive.google.com/file/d/1FbcxA5FVOZ_cfG3xDksVro8Kbv6y-iCm/view?usp=sharing"
+      ],
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1_TCRzu7Ay8l79_ZEB0yDMlsfOnfxd7RO/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1z1-sMNRlgjnFQegV8x54hCM73CRFJqS-/view?usp=sharing"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Basic Electronics",
+      "Electronics",
+      "BE",
+      "Basic Electronics- End Sem",
+      "Basic Electronics- Mid Sem"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Communicative & Technical English",
+    "shortName": "English",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1dr0t1RH0MSSwWdPm0q4SzWWqSriBa5mU/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1HKHtQFFH5_NkldSt8sOKy-0YfzpUvDJM/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Communicative & Technical English",
+      "Communicative & Technical English- End Sem",
+      "Communicative & Technical English- Mid Sem",
+      "CTE",
+      "English"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Engineering Chemistry",
+    "shortName": "Chemistry",
+    "description": "",
+    "links": [
+      [
+        "Notes - Full",
+        "https://drive.google.com/file/d/1kdIYhb15SnzMuYLoRB9h9glRVlDsk0Sd/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "https://drive.google.com/file/d/1IAIFSQJ_sJtzCC-6hjCVe4yj0R9bKtax/view?usp=sharing"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1dvMM8EnnuRLrszNUpsemL5ZppSFTxdeK/view?usp=sharing"
+      ]
+    ],
+    "contributors": [
+      [
+        "Amit Kumar Sahoo",
+        "https://notes-sit.live/"
+      ],
+      [
+        "Anshuman Das",
+        ""
+      ]
+    ],
+    "tags": [
+      "Engineering Chemistry",
+      "Engineering Chemistry- End Sem",
+      "Engineering Chemistry- Mid Sem",
+      "Chemistry",
+      "EC"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "C Programming",
+    "shortName": "C",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1be993zSQAqPBujV4tW9DpSayAgHyoSdp/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "https://www.notion.so/End-Term-Imp-Ques-f5a3c264212e4e36bd7e0ddd54e8935b?pvs=4"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1C22QLKD6zPmkJioEgPFmXVNN7pQKiP9u/view?usp=sharing"
+      ]
+    ],
+    "contributors": [
+      [
+        "Anshuman Das",
+        ""
+      ]
+    ],
+    "tags": [
+      "C Programming",
+      "C Programming- End Sem",
+      "C Programming- Mid Sem",
+      "C",
+      "C- End Sem",
+      "C- Mid Sem"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Environmental Science & Engineering",
+    "shortName": "ENVS",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD1-2",
+        "https://docs.google.com/presentation/d/1QlctaPM2yTdc7HOlrskIbwYBv03sEhhZ/edit?usp=sharing&ouid=115613730661041204627&rtpof=true&sd=true"
+      ],
+      [
+        "Notes - Full",
+        "https://docs.google.com/presentation/d/1L1Z2YZDCRSAp5lwrlhS26lpMR41KKKAa/edit?usp=sharing&ouid=115613730661041204627&rtpof=true&sd=true"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1RsgizqBmqkS-uXaiq1y1CnpYVSKoscaO/view?usp=sharing"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Environmental Science & Engineering",
+      "Environmental Science & Engineering- End Sem",
+      "Environmental Science & Engineering- Mid Sem",
+      "ESE",
+      "Environmental Science",
+      "Environmental Engineering",
+      "ENVS"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Basic Electrical Engineering",
+    "shortName": "BEE",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD1-2",
+        "https://drive.google.com/file/d/1KLNa-DJ_SKxEZsoABvXWkdL0gypRHUbX/view?usp=sharing"
+      ],
+      [
+        "Notes - Full",
+        "https://drive.google.com/file/d/1Fq94L-fo7_AxErLCibSNOEdPg9DOE4p8/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Basic Electrical",
+      "BE",
+      "Basic Electrical Engineering"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Data Structures & Algorithms",
+    "shortName": "DSA",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD1-2",
+        "https://drive.google.com/file/d/1QgFsr89ebP9M1mUWDLW9g8UdTqd0q0_Q/view?usp=sharing"
+      ],
+      [
+        "Notes (Awesome) - CSE Dept.",
+        "https://drive.google.com/file/d/1rETPdACEnJ_atu2IqHJFDAtysEKri1LP/view?usp=sharing"
+      ],
+      [
+        "Codes",
+        "https://drive.google.com/file/d/1YPwmC-fy2uNaQN90CMByziQsYvOW9ZI4/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ]
+    ],
+    "tags": [
+      "Data Structures & Algorithms",
+      "DSA",
+      "Data Structures",
+      "Algorithms"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Engineering Mathematics II",
+    "shortName": "Maths II",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD1-2",
+        "https://drive.google.com/file/d/1kGprBW9Zx-N70q2JHTVWuLecdO41nz-E/view?usp=sharing"
+      ],
+      [
+        "Notes - CSE Dept.",
+        "https://drive.google.com/file/d/1EoXWzLhtVSJKDibGgT9u87-DMtjlq2Df/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ]
+    ],
+    "tags": [
+      "Maths 2",
+      "Maths II",
+      "Mathematics II",
+      "Engineering Mathematics II",
+      "EM II"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Engineering Physics",
+    "shortName": "Physics",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/10g5cej_ebPezyJ__EgwcL9vp7zMNGGDv/view?usp=sharing"
+      ],
+      [
+        "Important Questions 1-2",
+        "https://docs.google.com/document/d/19g7i_UAYj1uByZQ3KmCujot907rKe0sl/edit?usp=sharing&ouid=115613730661041204627&rtpof=true&sd=true"
+      ],
+      [
+        "Important Questions 3",
+        "https://drive.google.com/file/d/10vPV0Ct6t1PnqW1mPulZn3iIX23c1eat/view?usp=sharing"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Engineering Physics",
+      "Phy",
+      "Physics"
+    ]
+  },
+  {
+    "year": true,
+    "id": 12,
+    "name": "CSE",
+    "shortName": "",
+    "description": "",
+    "links": [],
+    "contributors": [],
+    "tags": []
+  },
+  {
+    "id": 13,
+    "name": "Basic of Mechanical Engineering",
+    "shortName": "BME",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/1v0FM3T6wRXPTQAgrwS-Gj99uGEchQSo4/view?usp=sharing"
+      ],
+      [
+        "Notes MOD 3-5",
+        "https://drive.google.com/file/d/14se7o8A2xAPnmRKsqZ-UrM9GEOulXEGq/view?usp=sharing"
+      ],
+      [
+        "Notes - SIT",
+        "https://drive.google.com/file/d/1_mHBTONySpwGvZw5gqruUz7jsx0wccAP/view?usp=sharing"
+      ],
+      [
+        "Yunus Cengel, Michael Boles-Thermodynamics_ An Engineering Approach-McGraw-Hill Education (2014)",
+        "https://drive.google.com/file/d/1WpM7mvp7CKIxpmsykiwWMuXHqUfms6LK/view?usp=share_link"
+      ],
+      [
+        "Steam Tables",
+        "https://drive.google.com/file/d/1rmgOmGRCq0XakcU-N1JM_Q-bQtoLwIER/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ]
+    ],
+    "tags": [
+      "Basic of Mechanical Engineering",
+      "BME",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Digital Electronics",
+    "shortName": "DEC",
+    "description": "",
+    "links": [
+      [
+        "Notes - Lecture Notes",
+        "https://drive.google.com/file/d/1nGWLCwRfiT2iczxt6NDmwexCY4vXEAwG/view?usp=sharing"
+      ],
+      [
+        "Digital_Design_M_Mano_Fifth_Edition",
+        "https://drive.google.com/file/d/1mp2_dpQJo8dIP19FkVGpWgqQ4mE3BoGK/view?usp=sharing"
+      ],
+      [
+        "Lab Record Experiment - (1-5)",
+        "https://drive.google.com/file/d/1Np2p6fGR01r_VzmzFFe7snTsbrUVG746/view?usp=share_link"
+      ],
+      [
+        "Lab Record Experiment - (6-10)",
+        "https://drive.google.com/file/d/1VYJptxrvuP-Z26-c0rW7wf4e8t-1tfQi/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Digital Electronics",
+      "DEC",
+      "Digital Electronics and Computer Organization",
+      "DECO"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Discrete Mathematics",
+    "shortName": "DM",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1813iQ4MmSyop08Fxw_ayOGjJFm2sT6VO/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Discrete Mathematics",
+      "DM"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Engineering Economics",
+    "shortName": "Economics",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/14iH-yXuK1CaVnYv1HXNPhiTq7cQNcKDG/view?usp=sharing"
+      ],
+      [
+        "Notes Alternate (Complete)",
+        "https://drive.google.com/file/d/12_n20kdNTIbecVcFxXLDt_IQwQrP1hO4/view?usp=share_link"
+      ],
+      [
+        "Notes Alternate ",
+        "https://drive.google.com/file/d/1rCwPYuiufUYxDRZxtZgP8-j5e2_Pth_G/view?usp=sharing"
+      ],
+      [
+        "CI Tables",
+        "https://drive.google.com/file/d/1jUiJCerhMJRUFH9yGZGF1Guh_J_DrNDV/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Engineering Economics",
+      "Economics"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Engineering Mathematics III",
+    "shortName": "Maths 3",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/13Ur6XLWtV0wxo-CoL9e9c63s-aaY6Vly/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Engineering Mathematics III",
+      "Maths 3"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Object-Oriented Programming using JAVA",
+    "shortName": "OOP",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/1L0qB1WlPnc6kbyBHbCvadeudo6Nn_FxS/view?usp=share_link"
+      ],
+      [
+        "lab Record Complete",
+        "https://drive.google.com/file/d/1m9xP50e_RUGW13qnQPfNM62RpH-N8cXx/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "Ananya",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Object-Oriented Programming using JAVA",
+      "OOP",
+      "JAVA",
+      "Java",
+      "OUJ"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Fundamentals of Management",
+    "shortName": "FOM",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1Tow1MEt61KrsxfrbWNLnCg7X10RG3cOF/view?usp=sharing"
+      ],
+      [
+        "Notes(Alternate)",
+        "https://drive.google.com/file/d/1techa6GWOLlps2femUHxDrx0DwDGSV09/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Fundamentals of Management",
+      "FOM",
+      "Management"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Computer Organization and Architecture",
+    "shortName": "COA",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/10YumalIlPlJbfjzHj5cI88BCYmzRIoYr/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": [
+      "Computer Organization and Architecture",
+      "COA",
+      "Computer Architecture"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Database Management System",
+    "shortName": "DBMS",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1AnS0abz5yLu--gSQ9dMUaSCYXY4jq2Eb/view?usp=sharing"
+      ],
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1x5rWydf6w5PDhDULpNPN9z9DJvo5AdEz/view?usp=share_link"
+      ],
+      [
+        "Module 1",
+        "https://drive.google.com/file/d/1bmJYubFp7qGFYfzUWKoNvXL4wK1Bcm4u/view?usp=share_link"
+      ],
+      [
+        "Module 2",
+        "https://drive.google.com/file/d/1fKcboTd5pzST7Ew9pvZ6mpZCduOdsWnQ/view?usp=share_link"
+      ],
+      [
+        "Module 3",
+        "https://drive.google.com/file/d/1UA-ldBDv6fWgDI3SCO3OWOSr6mLiXREA/view?usp=sharing"
+      ],
+      [
+        "Module 4",
+        "https://drive.google.com/file/d/19mkLEvBOx19lV8TeL57Ad-afzYDs8kZW/view?usp=share_link"
+      ],
+      [
+        "Module 5",
+        "https://drive.google.com/file/d/1mUySz5pfh7TKaUIanXripydU-DFk5pxK/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Database Management System",
+      "DBMS",
+      "Database"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Design and Analysis of Algorithms",
+    "shortName": "DAA",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1HYpgvmB8les2xYdaq_Gz--zCxnGlH6QR/view?usp=sharing"
+      ],
+      [
+        "Introduction_to_algorithms-3rd Edition.pdf",
+        "https://drive.google.com/file/d/1CdnUR3QhSfF2CUL8v5EasKPTjXLhJit5/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ]
+    ],
+    "tags": [
+      "Design and Analysis of Algorithms",
+      "DAA",
+      "Algorithms"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Engineering Mathematics IV",
+    "shortName": "Maths 4",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/1zHf52imfsvilMXGwZ1hXSWbecQHAPoQw/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Engineering Mathematics IV",
+      "Maths 4",
+      "Maths"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Operating Systems",
+    "shortName": "OS",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1s1rwrjOEPf8wt1_XazzE-NsoIQQMnuyH/view?usp=share_link"
+      ],
+      [
+        "Important Algorithms",
+        "https://drive.google.com/file/d/1zF6wYsQK1f0474DhUvB0Mk3OsEp6ZVKS/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment",
+        "/under-construction"
+      ],
+      [
+        "Important Questions",
+        "https://docs.google.com/document/d/1E6oDZxGqEzKlzvj6O6YKTSZ811DR7mGe/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1Jnvyd7rW3RsN6U87jrRi-LnAAgQjQ2Xu/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Operating Systems",
+      "OS"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Computer Networks",
+    "shortName": "CN",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/18bc_qI7HEWkyBzY7MJqpBc3fWqsIWG7v/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment-1",
+        "https://drive.google.com/file/d/1vn747SlNVwFpgsM15U4CrWZgwLgWer8L/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment-2",
+        "https://drive.google.com/file/d/18ms8vkrjH15_K5KuNOj3ZKe7ysyGFZQz/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment-5",
+        "https://drive.google.com/file/d/1q0FBXPAJ6SRIuJCjS5gHc43QOor8Ct6J/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment-6",
+        "https://drive.google.com/file/d/1H-mjpZArmAHN-rFRWJNEZhMKTU0gKNFV/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment-7",
+        "https://drive.google.com/file/d/1e3qEj5JVjSYpzKjB_2qVXUCgLgEBIfNN/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "https://drive.google.com/file/d/1zwlEOz7piBg3Wrq9yLrBiYUhEXpOaecd/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1UL8A5DHjwrdeyi6g0iASV-Bftz7hIrf-/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Computer Networks",
+      "CN"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Biology for Engineers",
+    "shortName": "BIOLOGY",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1tSdVhKAfAypx5c5wQS-bNfQ_mqQylkXY/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "https://drive.google.com/file/d/1Ukt14ymJAqKk8iGYIyjxGYb6HLF_O6Jm/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/12B7mgXTDDY7x37x3Mh_hOWFP_VPD5u1S/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Biology for Engineers",
+      "BIO"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Data Mining & Data Warehousing",
+    "shortName": "DMDW",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1Ny4b8MZWcJ9smrtyta6H2-WQUsTtRjKq/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "https://drive.google.com/file/d/198f2z40JJiuTFwAD9hO7CgiAqlwGa7rr/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1CJNJuWpsKFnye2EkZTU10w-vZx4H_EGe/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Data Mining & Data Warehousing",
+      "DMDW"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Statistical Inference",
+    "shortName": "STATS",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1Fq_YToqcYqtJZi_3sMbTJ3smUaFBq7JK/view?usp=share_link"
+      ],
+      [
+        "Tables",
+        "https://drive.google.com/file/d/1JxyXikuY4V3O0i-5yfEh3nLaO1eSJm1Y/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1xKTotS2ZKkK3TxJi-ViIk3rU1Yc4kb8X/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Statistical Inference",
+      "SI"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Cloud Computing",
+    "shortName": "CC",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/14OH0ZB2U7727PoREnHqgqwrzeVJMxhAW/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1_XVHBw5dagNJ3u8W8lfGQ62ZrnR8VcHp/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Cloud Computing",
+      "CC"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Professional Ethics & Values",
+    "shortName": "PEV",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1uPYYkABheNXatPYMp7q4UKYH76yG6rGx/view?usp=share_link"
+      ],
+      [
+        "Notes-Alternate (Complete)",
+        "https://drive.google.com/drive/folders/12yLlub4Cd1az0aOVzKOgv-ekSjVRglT4?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1cinn5v-Bl902U3s3_HjsZfgiTVm2jJA5/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Professional Ethics & Values",
+      "PEV"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Advanced Java Programming",
+    "shortName": "AJP",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "/under-construction"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1uOusFuSPHf7Skw5yg5o5VcgNO9IQqOdr/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Advanced Java Programming",
+      "AJP"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Mobile Computing",
+    "shortName": "MC",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "/under-construction"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/18bP16H8F1cM0fK-UvF-QaVry_cE6_LA-/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Mobile Computing",
+      "MC"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Formal Languages & Automata Theory",
+    "shortName": "FLAT",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1tFqDdlRwPmIj0xyufQCkEFA-scD3uS1P/view?usp=share_link"
+      ],
+      [
+        "Important Theorems",
+        "https://drive.google.com/file/d/1LzrFJCjDnTJEyV8PH2F4Pjlhj8geBMWu/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1xfu_oaeJQCu0taOMTOiSYDgMFLpYDj-b/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Formal Languages & Automata Theory",
+      "FLAT"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "System Programming",
+    "shortName": "SP",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "/under-construction"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "System Programming",
+      "SP"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Software Engineering",
+    "shortName": "SE",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1g3W-bvEbWW-KDFy7fRlkgExtkvDgVZ3l/view?usp=sharing"
+      ],
+      [
+        "Important Questions(1)",
+        "https://docs.google.com/document/d/1N-jqoS7zZNZ6eZsaQCNi7JfINwDD36Dx/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Important Questions(2)",
+        "https://docs.google.com/document/d/1QHOUKyONipYqHsckCr5L7PLdbUXniVQJ/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1LcSsM1mwWHFfn7XqpdXqVysRqp9GMQyJ/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Software Engineering",
+      "SE"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Machine Learning",
+    "shortName": "ML",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/10NqbV90qtQv_0EdIK2b-mhG-iHIbkoSx/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1nQY8LiC_M9_Cr6XmOqFqX8jmSqBp6l7a/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Machine Learning",
+      "ML"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Artificial Intelligence",
+    "shortName": "AI",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1VCZGJtw5qco-4ro6kbRBSyfW0ifVx0KD/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1xfu_oaeJQCu0taOMTOiSYDgMFLpYDj-b/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "AI"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Natural Language Processing",
+    "shortName": "NLP",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "/under-construction"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Natural Language Processing",
+      "NLP"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Wireless Sensor Networks",
+    "shortName": "WSN",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "/under-construction"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Wireless Sensor Networks",
+      "WSN"
+    ]
+  },
+  {
+    "year": true,
+    "id": 40,
+    "name": "ECE",
+    "shortName": "",
+    "description": "",
+    "links": [],
+    "contributors": [],
+    "tags": []
+  },
+  {
+    "id": 41,
+    "name": "Object-Oriented Programming using JAVA",
+    "shortName": "OOP",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/1L0qB1WlPnc6kbyBHbCvadeudo6Nn_FxS/view?usp=share_link"
+      ],
+      [
+        "lab Record Complete",
+        "https://drive.google.com/file/d/1m9xP50e_RUGW13qnQPfNM62RpH-N8cXx/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "Ananya",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 42,
+    "name": "Circuit Theory",
+    "shortName": "CT",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1URxkktnm-jgxHB_nZ_nGCp9kDetz_fw8/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 1",
+        "https://drive.google.com/file/d/1L6TJYTiUry2qjap10PW3KsTeyaY5IVJx/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 2",
+        "https://drive.google.com/file/d/1vPMDSSnpvNcP3tufNRVi4-6XsLMfUEJJ/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 3",
+        "https://drive.google.com/file/d/1982MIV9n99YETui7IstjPpq8SwiWB7CM/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 4",
+        "https://drive.google.com/file/d/1oo261iRZtIyaj9VnWf9-g2taZhvghm5L/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 5",
+        "https://drive.google.com/file/d/1_zjE6QmQAkCXGa4hDqy5C68-HVNNcHi5/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 6",
+        "https://drive.google.com/file/d/1RySlbxKV_vOEOWGPzMgyvmhrYt4X6AzQ/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 7",
+        "https://drive.google.com/file/d/1OxeRZNLDVk-bbcurkDEmdX6K5rFhx2bp/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 9",
+        "https://drive.google.com/file/d/1b8GR8ry88mDV04WPvBidfAfc4FR7lel7/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 10",
+        "https://drive.google.com/file/d/1hWF20HeHH4gXZdUUBDo3sCV-n_l6nMjU/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Circuit Theory",
+      "CT",
+      "CircuitTheory"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Maths -III Complex Numbers",
+    "shortName": "Maths-3(ECE)",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1zOX8tNPoNA0bvsHRSRHn7hZt9SF8TNQk/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Maths 3 ECE EEE",
+      "Maths-III ECE EEE",
+      "Complex Numbers"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Electronic Devices",
+    "shortName": "EDL",
+    "description": "",
+    "links": [
+      [
+        "Notes HandWritten",
+        "https://drive.google.com/file/d/1u_1xvwW7AhN9U55BkBJoN-1ff7ifqNV3/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Electronic Devices",
+      "ELD",
+      "ElectronicDevices"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Analog Electronics Circuits",
+    "shortName": "AEC",
+    "description": "",
+    "links": [
+      [
+        "Notes Module 1 & 3(half)",
+        "https://drive.google.com/file/d/1lxwfvloeV72PNnSqPLzLZCogcLq4LPK_/view?usp=share_link"
+      ],
+      [
+        "Notes Module 2",
+        "https://drive.google.com/file/d/1sebPx7qM3lL5M1KAb1RqPjVfMug0vajD/view?usp=share_link"
+      ],
+      [
+        "Notes Module 5",
+        "https://drive.google.com/file/d/17SOXkAGtSeJBjSouXQgWcoHUUz6k03R6/view?usp=share_link"
+      ],
+      [
+        "Notes Remaining and Extras",
+        "https://drive.google.com/file/d/1N2gzEXolFFKjGx0ngEeRSrH87sdaQ369/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Analog Electronics Circuit",
+      "AEC",
+      "Analog Circuits"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Engineering Mathematics IV (ECE)",
+    "shortName": "Maths 4",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1kWBSEO4_egkmi8lWWHpM2T4fT4cWaErW/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Engineering Mathematics IV ECE",
+      "Maths 4 ECE",
+      "Maths 4 EEE",
+      "Maths 4",
+      "Maths 4 ECE EEE",
+      "Maths 4 electrical",
+      "Maths 4 electronics"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Digital Signal Processing",
+    "shortName": "DSP",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1TtOkvHKAJb4djoUdhQ6L7Pdn0gYtyf-t/view?usp=share_link"
+      ],
+      [
+        "Module 1(part-1)",
+        "https://drive.google.com/file/d/172cZb20wknV5zoOlCTvd-A7Tz77bWvbc/view?usp=share_link"
+      ],
+      [
+        "Module 1(part-2)",
+        "https://drive.google.com/file/d/1GpCQ82woWDvEr1t-tkWAVbiyOo21ZM-g/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-1)",
+        "https://drive.google.com/file/d/1Ya2_ziXcb0A0tkVjIes7Zfcs9HE7ufkp/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-2)",
+        "https://drive.google.com/file/d/1Pd0xhNtKQkAwI1UqDwK7tq5OQwTwl4j9/view?usp=share_link"
+      ],
+      [
+        "Module 3",
+        "https://drive.google.com/file/d/1EGsjFg_SC8pYIlEBLGtxRFT1fdHPibXq/view?usp=share_link"
+      ],
+      [
+        "Module 4",
+        "https://drive.google.com/file/d/17LsmYMC960EhmAFWREl-VZlOZavXJJV_/view?usp=share_link"
+      ],
+      [
+        "Module 5",
+        "https://drive.google.com/file/d/1kgAhpZ22jkis5RFqvO9njhNU3N21GO11/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 48,
+    "name": "Basic of Mechanical Engineering",
+    "shortName": "BME",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/1v0FM3T6wRXPTQAgrwS-Gj99uGEchQSo4/view?usp=sharing"
+      ],
+      [
+        "Notes MOD 3-5",
+        "https://drive.google.com/file/d/14se7o8A2xAPnmRKsqZ-UrM9GEOulXEGq/view?usp=sharing"
+      ],
+      [
+        "Notes - SIT",
+        "https://drive.google.com/file/d/1_mHBTONySpwGvZw5gqruUz7jsx0wccAP/view?usp=sharing"
+      ],
+      [
+        "Yunus Cengel, Michael Boles-Thermodynamics_ An Engineering Approach-McGraw-Hill Education (2014)",
+        "https://drive.google.com/file/d/1WpM7mvp7CKIxpmsykiwWMuXHqUfms6LK/view?usp=share_link"
+      ],
+      [
+        "Steam Tables",
+        "https://drive.google.com/file/d/1rmgOmGRCq0XakcU-N1JM_Q-bQtoLwIER/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 49,
+    "name": "Analog Communication",
+    "shortName": "AC",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1zDR5Pk73Ue0APP5oBRe9vWALtk2Z15FL/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Analog Communication",
+      "AC"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Control Systems & Engineering",
+    "shortName": "CSE",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1Bh7fxB65RnxWRtGOWwiwCBAm_TWQ8jaa/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 1",
+        "https://drive.google.com/file/d/1InH7dmjQlPGaH3zj7ssCqSrXW-y-gidU/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 2",
+        "https://drive.google.com/file/d/1XAUNmekBFs2VKAiue51qfgjad0CmyvtE/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 3",
+        "https://drive.google.com/file/d/1B_FwGskNttyph9gRid9-qM0Yp59nwjap/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 4",
+        "https://drive.google.com/file/d/1KRHkY_qjl0Zas5GfmCYWuiMPg8Hs9Msz/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 5",
+        "https://drive.google.com/file/d/1WBo8N0DUq01B5364yJLUTbEU9AcNAEyX/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 6",
+        "https://drive.google.com/file/d/15pAJUAelcbg6BM1jNObvA3edu_su6xsM/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 7",
+        "https://drive.google.com/file/d/15pAJUAelcbg6BM1jNObvA3edu_su6xsM/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 8",
+        "https://drive.google.com/file/d/13MzwPypfTaTw6H3fc3FS9TrLixCo9_eI/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 9",
+        "https://drive.google.com/file/d/1K59o4Esm-ERF9vCk_vzHL_5vuhOk0KnF/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 10",
+        "https://drive.google.com/file/d/15Xw0Gnp7Ta2QPEgOlUut4jWlLuOFp-N8/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": [
+      "Control Systems",
+      "CSE"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Applied linear algebra",
+    "shortName": "LA",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1UVzmIwtbekrlGEZbEqygwNWfoJ5PECIJ/view?usp=share_link"
+      ],
+      [
+        "Cheetsheet",
+        "https://drive.google.com/file/d/16YXg-Q_DpwsHBvjj0Sfb9cY2U02IfB6c/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Applied linear algebra",
+      "linear",
+      "LA",
+      "ALA"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Operating Systems",
+    "shortName": "OS",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1s1rwrjOEPf8wt1_XazzE-NsoIQQMnuyH/view?usp=share_link"
+      ],
+      [
+        "Important Algorithms",
+        "https://drive.google.com/file/d/1zF6wYsQK1f0474DhUvB0Mk3OsEp6ZVKS/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment",
+        "/under-construction"
+      ],
+      [
+        "Important Questions",
+        "https://docs.google.com/document/d/1E6oDZxGqEzKlzvj6O6YKTSZ811DR7mGe/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1Jnvyd7rW3RsN6U87jrRi-LnAAgQjQ2Xu/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 53,
+    "name": "Programming in Python",
+    "shortName": "Python",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/14h6XjO4cdp3m74add0unz5eMDd70KMmy/view?usp=share_link"
+      ],
+      [
+        "Cheetsheet",
+        "https://drive.google.com/file/d/1C8_ALkBjgGyu14Mhtv0k-quWZxjtcozy/view?usp=sharing"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 54,
+    "name": "Professional Ethics & Values",
+    "shortName": "PEV",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1uPYYkABheNXatPYMp7q4UKYH76yG6rGx/view?usp=share_link"
+      ],
+      [
+        "Notes-Alternate (Complete)",
+        "https://drive.google.com/drive/folders/12yLlub4Cd1az0aOVzKOgv-ekSjVRglT4?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1cinn5v-Bl902U3s3_HjsZfgiTVm2jJA5/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 55,
+    "name": "Engineering Economics",
+    "shortName": "Economics",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/14iH-yXuK1CaVnYv1HXNPhiTq7cQNcKDG/view?usp=sharing"
+      ],
+      [
+        "Notes Alternate (Complete)",
+        "https://drive.google.com/file/d/12_n20kdNTIbecVcFxXLDt_IQwQrP1hO4/view?usp=share_link"
+      ],
+      [
+        "Notes Alternate ",
+        "https://drive.google.com/file/d/1rCwPYuiufUYxDRZxtZgP8-j5e2_Pth_G/view?usp=sharing"
+      ],
+      [
+        "CI Tables",
+        "https://drive.google.com/file/d/1jUiJCerhMJRUFH9yGZGF1Guh_J_DrNDV/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 56,
+    "name": "Micro Processors",
+    "shortName": "MPMC",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1AYNqPg-Eu_LL0-iS8VhbylKrFeyKeFdP/view?usp=share_link"
+      ],
+      [
+        "Notes-Alternate (Complete)",
+        "https://drive.google.com/file/d/1uj5-e10Te9vGkNH6H8isWottVBW3uvc6/view?usp=share_link"
+      ],
+      [
+        "Notes-Alternate (Complete)",
+        "https://drive.google.com/file/d/1Pt45BDotg8r8_L76NjFgSJ4IaSI5pWNQ/view?usp=share_link"
+      ],
+      [
+        "Lab Record Complete",
+        "https://drive.google.com/file/d/10hyxiQyCVwmRDfWHAV7OWvjBCjBOaJES/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ],
+      [
+        "Aditya Sahu",
+        "https://www.linkedin.com/in/adityasahu2000/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Microprocessors",
+      "MPMC"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Electromagnetic Theory",
+    "shortName": "EMT",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1ixan5fwFlmpFlg7xEaJBRFPAnick3KVD/view?usp=share_link"
+      ],
+      [
+        "Notes (Alternate)",
+        "https://drive.google.com/file/d/1V5iBSei_5g5I3X_sAEGt3y5dBsGMSGPz/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": [
+      "Electromagnetic Theory",
+      "EMT"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Circuits & Signals",
+    "shortName": "CS",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1RcxzWGbpBUOmYFXk6MiNuTEoSbh_oMnd/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 1",
+        "https://drive.google.com/file/d/1L6TJYTiUry2qjap10PW3KsTeyaY5IVJx/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 2",
+        "https://drive.google.com/file/d/1vPMDSSnpvNcP3tufNRVi4-6XsLMfUEJJ/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 3",
+        "https://drive.google.com/file/d/1982MIV9n99YETui7IstjPpq8SwiWB7CM/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 4",
+        "https://drive.google.com/file/d/1oo261iRZtIyaj9VnWf9-g2taZhvghm5L/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 5",
+        "https://drive.google.com/file/d/1_zjE6QmQAkCXGa4hDqy5C68-HVNNcHi5/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 6",
+        "https://drive.google.com/file/d/1RySlbxKV_vOEOWGPzMgyvmhrYt4X6AzQ/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 7",
+        "https://drive.google.com/file/d/1OxeRZNLDVk-bbcurkDEmdX6K5rFhx2bp/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 9",
+        "https://drive.google.com/file/d/1b8GR8ry88mDV04WPvBidfAfc4FR7lel7/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 10",
+        "https://drive.google.com/file/d/1hWF20HeHH4gXZdUUBDo3sCV-n_l6nMjU/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": [
+      "CS",
+      "Circuits & Signals"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Signal System",
+    "shortName": "SNP",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1L9DAPJgUM50KNp5vuosOZoMpE1aC9vbi/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": [
+      "Signal System",
+      "SNP"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "VLSI",
+    "shortName": "Vlsi",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1VQNpgjYQibYH7g7yF3lpp7HMrp_tJmE4/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "VLSI"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Internet of Things",
+    "shortName": "IoT",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1JS9Npk_9kuFGBa7eoaLnSkD0dacPBWLH/view?usp=share_link"
+      ],
+      [
+        "Chapter-1",
+        "https://drive.google.com/file/d/1mG1p_sWjDFp6nmubc-9gLsFdTvgDQqHh/view?usp=share_link"
+      ],
+      [
+        "Chapter-2",
+        "https://docs.google.com/presentation/d/17DruWfrQJlltT5fFSteSMlZ5MHYZ_jKX/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Chapter-3",
+        "https://drive.google.com/file/d/1LYdhDv5KsxYV8_a0KCejXOxYbsTcZLxQ/view?usp=share_link"
+      ],
+      [
+        "Chapter-4",
+        "https://drive.google.com/file/d/1QcnFkcWnl8TtK9bEj_MG5ZwtGtVOdEev/view?usp=share_link"
+      ],
+      [
+        "Chapter-5",
+        "https://drive.google.com/file/d/1_vEQf59Ik3xeGjFctwTwnzHcCYs9JRVf/view?usp=share_link"
+      ],
+      [
+        "Chapter-6",
+        "https://drive.google.com/file/d/1dOzMTPN6enGlQqNRGanZ_UVwMI_21lPL/view?usp=share_link"
+      ],
+      [
+        "Chapter-7",
+        "https://drive.google.com/file/d/1SlbWxoMtVkGAgY8_yJpjq5IO4YGz1Os2/view?usp=share_link"
+      ],
+      [
+        "Chapter-8",
+        "https://drive.google.com/file/d/1k6tE_GEJUwfBY1rLBiSPjibMPDC-23CS/view?usp=share_link"
+      ],
+      [
+        "Chapter-10",
+        "https://drive.google.com/file/d/17fLZ1iZ2Vs9DSmgcmFkRN9SwANADUKw0/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "IoT"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Digital Signal Processing",
+    "shortName": "DSP",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1TtOkvHKAJb4djoUdhQ6L7Pdn0gYtyf-t/view?usp=share_link"
+      ],
+      [
+        "Module 1(part-1)",
+        "https://drive.google.com/file/d/172cZb20wknV5zoOlCTvd-A7Tz77bWvbc/view?usp=share_link"
+      ],
+      [
+        "Module 1(part-2)",
+        "https://drive.google.com/file/d/1GpCQ82woWDvEr1t-tkWAVbiyOo21ZM-g/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-1)",
+        "https://drive.google.com/file/d/1Ya2_ziXcb0A0tkVjIes7Zfcs9HE7ufkp/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-2)",
+        "https://drive.google.com/file/d/1Pd0xhNtKQkAwI1UqDwK7tq5OQwTwl4j9/view?usp=share_link"
+      ],
+      [
+        "Module 3",
+        "https://drive.google.com/file/d/1EGsjFg_SC8pYIlEBLGtxRFT1fdHPibXq/view?usp=share_link"
+      ],
+      [
+        "Module 4",
+        "https://drive.google.com/file/d/17LsmYMC960EhmAFWREl-VZlOZavXJJV_/view?usp=share_link"
+      ],
+      [
+        "Module 5",
+        "https://drive.google.com/file/d/1kgAhpZ22jkis5RFqvO9njhNU3N21GO11/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Digital Signal Processing",
+      "DSP",
+      "IDSP"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Organisational Behaviour",
+    "shortName": "OB",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/drive/folders/1t_g5dRPfRIKTnD9u6WiBEVWxDKOWA-GK?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Organisational Behaviour",
+      "OB",
+      "Organisation Behaviour"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Virtual Instrumentation",
+    "shortName": "VI",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/drive/folders/1YqHH66IzYQavZuxI985mGkvOVkoHsHwj?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Virtual Instrumentation",
+      "VI",
+      "Instrumentation"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Analog Communication",
+    "shortName": "AC",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1zDR5Pk73Ue0APP5oBRe9vWALtk2Z15FL/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 66,
+    "name": "Soft Computing",
+    "shortName": "SC",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1xK6FHjE3qoZePU7ZCIMbgKXSkb1YeEo7/view?usp=share_link"
+      ],
+      [
+        "Cheetsheet",
+        "https://drive.google.com/file/d/1ZBKin0YoGcEzLYjzNzwqSfIopTIjQpop/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Soft Computing",
+      "SC"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Programming in Python",
+    "shortName": "Python",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/14h6XjO4cdp3m74add0unz5eMDd70KMmy/view?usp=share_link"
+      ],
+      [
+        "Cheetsheet",
+        "https://drive.google.com/file/d/1C8_ALkBjgGyu14Mhtv0k-quWZxjtcozy/view?usp=sharing"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Python",
+      "Py"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Biology for Engineers",
+    "shortName": "BIOLOGY",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1tSdVhKAfAypx5c5wQS-bNfQ_mqQylkXY/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "https://drive.google.com/file/d/1Ukt14ymJAqKk8iGYIyjxGYb6HLF_O6Jm/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/12B7mgXTDDY7x37x3Mh_hOWFP_VPD5u1S/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Biology for Engineers",
+      "BIO"
+    ]
+  },
+  {
+    "year": true,
+    "id": 69,
+    "name": "EEE",
+    "shortName": "",
+    "description": "",
+    "links": [],
+    "contributors": [],
+    "tags": []
+  },
+  {
+    "id": 70,
+    "name": "Maths -III Complex Numbers",
+    "shortName": "Maths-3(ECE)",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1zOX8tNPoNA0bvsHRSRHn7hZt9SF8TNQk/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 71,
+    "name": "Object-Oriented Programming using JAVA",
+    "shortName": "OOP",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/1L0qB1WlPnc6kbyBHbCvadeudo6Nn_FxS/view?usp=share_link"
+      ],
+      [
+        "lab Record Complete",
+        "https://drive.google.com/file/d/1m9xP50e_RUGW13qnQPfNM62RpH-N8cXx/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "Ananya",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 72,
+    "name": "Basic of Mechanical Engineering",
+    "shortName": "BME",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/1v0FM3T6wRXPTQAgrwS-Gj99uGEchQSo4/view?usp=sharing"
+      ],
+      [
+        "Notes MOD 3-5",
+        "https://drive.google.com/file/d/14se7o8A2xAPnmRKsqZ-UrM9GEOulXEGq/view?usp=sharing"
+      ],
+      [
+        "Notes - SIT",
+        "https://drive.google.com/file/d/1_mHBTONySpwGvZw5gqruUz7jsx0wccAP/view?usp=sharing"
+      ],
+      [
+        "Yunus Cengel, Michael Boles-Thermodynamics_ An Engineering Approach-McGraw-Hill Education (2014)",
+        "https://drive.google.com/file/d/1WpM7mvp7CKIxpmsykiwWMuXHqUfms6LK/view?usp=share_link"
+      ],
+      [
+        "Steam Tables",
+        "https://drive.google.com/file/d/1rmgOmGRCq0XakcU-N1JM_Q-bQtoLwIER/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ]
+    ],
+    "tags": [
+      "Basic of Mechanical Engineering",
+      "BME",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Circuits & Signals",
+    "shortName": "CS",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1RcxzWGbpBUOmYFXk6MiNuTEoSbh_oMnd/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 1",
+        "https://drive.google.com/file/d/1L6TJYTiUry2qjap10PW3KsTeyaY5IVJx/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 2",
+        "https://drive.google.com/file/d/1vPMDSSnpvNcP3tufNRVi4-6XsLMfUEJJ/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 3",
+        "https://drive.google.com/file/d/1982MIV9n99YETui7IstjPpq8SwiWB7CM/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 4",
+        "https://drive.google.com/file/d/1oo261iRZtIyaj9VnWf9-g2taZhvghm5L/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 5",
+        "https://drive.google.com/file/d/1_zjE6QmQAkCXGa4hDqy5C68-HVNNcHi5/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 6",
+        "https://drive.google.com/file/d/1RySlbxKV_vOEOWGPzMgyvmhrYt4X6AzQ/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 7",
+        "https://drive.google.com/file/d/1OxeRZNLDVk-bbcurkDEmdX6K5rFhx2bp/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 9",
+        "https://drive.google.com/file/d/1b8GR8ry88mDV04WPvBidfAfc4FR7lel7/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 10",
+        "https://drive.google.com/file/d/1hWF20HeHH4gXZdUUBDo3sCV-n_l6nMjU/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 74,
+    "name": "Electromagnetic Theory",
+    "shortName": "EMT",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1ixan5fwFlmpFlg7xEaJBRFPAnick3KVD/view?usp=share_link"
+      ],
+      [
+        "Notes (Alternate)",
+        "https://drive.google.com/file/d/1V5iBSei_5g5I3X_sAEGt3y5dBsGMSGPz/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": [
+      "Electromagnetic Theory",
+      "EMT"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Analog Electronics Circuits",
+    "shortName": "AEC",
+    "description": "",
+    "links": [
+      [
+        "Notes Module 1 & 3(half)",
+        "https://drive.google.com/file/d/1lxwfvloeV72PNnSqPLzLZCogcLq4LPK_/view?usp=share_link"
+      ],
+      [
+        "Notes Module 2",
+        "https://drive.google.com/file/d/1sebPx7qM3lL5M1KAb1RqPjVfMug0vajD/view?usp=share_link"
+      ],
+      [
+        "Notes Module 5",
+        "https://drive.google.com/file/d/17SOXkAGtSeJBjSouXQgWcoHUUz6k03R6/view?usp=share_link"
+      ],
+      [
+        "Notes Remaining and Extras",
+        "https://drive.google.com/file/d/1N2gzEXolFFKjGx0ngEeRSrH87sdaQ369/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 76,
+    "name": "Engineering Mathematics IV (EEE)",
+    "shortName": "Maths 4 EEE",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1kWBSEO4_egkmi8lWWHpM2T4fT4cWaErW/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 77,
+    "name": "Fundamentals of Management",
+    "shortName": "FOM",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1Tow1MEt61KrsxfrbWNLnCg7X10RG3cOF/view?usp=sharing"
+      ],
+      [
+        "Notes(Alternate)",
+        "https://drive.google.com/file/d/1techa6GWOLlps2femUHxDrx0DwDGSV09/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 78,
+    "name": "Digital Electronics",
+    "shortName": "DEC",
+    "description": "",
+    "links": [
+      [
+        "Notes - Lecture Notes",
+        "https://drive.google.com/file/d/1nGWLCwRfiT2iczxt6NDmwexCY4vXEAwG/view?usp=sharing"
+      ],
+      [
+        "Digital_Design_M_Mano_Fifth_Edition",
+        "https://drive.google.com/file/d/1mp2_dpQJo8dIP19FkVGpWgqQ4mE3BoGK/view?usp=sharing"
+      ],
+      [
+        "Lab Record Experiment - (1-5)",
+        "https://drive.google.com/file/d/1Np2p6fGR01r_VzmzFFe7snTsbrUVG746/view?usp=share_link"
+      ],
+      [
+        "Lab Record Experiment - (6-10)",
+        "https://drive.google.com/file/d/1VYJptxrvuP-Z26-c0rW7wf4e8t-1tfQi/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 79,
+    "name": "Electrical Machines I",
+    "shortName": "EM",
+    "description": "",
+    "links": [
+      [
+        "Ebook - B.L Thereja",
+        "https://drive.google.com/file/d/1N5uCMb1JKxGWlCopbOxMgIRSqoIYoSVU/view?usp=share_link"
+      ],
+      [
+        "Notes Part-1",
+        "https://docs.google.com/presentation/d/1cUUGQZxYNM0LSTxGiDHeXRpjMfCe4UoR/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Notes Part-2",
+        "https://docs.google.com/presentation/d/1mdWYHogUkX8sY5jG2nVvjSvrlAEEA_HU/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Notes Part-3",
+        "https://docs.google.com/presentation/d/1qBLX5_OgTPuGrpSi7hRoK9cSPnfbBnK3/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Lab Experiment - 1",
+        "https://drive.google.com/file/d/1b9gg_U9dWCJ_dxe4-lrvHMmJXiWaJMUM/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 2",
+        "https://drive.google.com/file/d/1-Pd2GcHeGuseyKOhA1ZstoquM25uHXo3/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 3",
+        "https://drive.google.com/file/d/18f7QMxfkpIsKZMzuUxmLy8NJSrJUhm8l/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 4",
+        "https://drive.google.com/file/d/1HvO7kZIouo9IsTfSJtjvYRj85bpGXgpO/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 5",
+        "https://drive.google.com/file/d/1BIFzSLxYi23IkNB4VuLpVHBf7KB11ekl/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 7",
+        "https://drive.google.com/file/d/1keUtS2Fowe0Em_qu4c1LLA0Nt9Eeiksg/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 8",
+        "https://drive.google.com/file/d/1pxF-HnH-m1acwz0T5zNvzutglkEv33pq/view?usp=share_link-"
+      ],
+      [
+        "Lab Experiment - 10",
+        "https://drive.google.com/file/d/1h2tYTtPz3Vrwzo4kYGV6BXH1niHhT9KO/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 11",
+        "https://drive.google.com/file/d/133rkKSUrt_wVVfpFIEeygWVRJWcd8x2u/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 12",
+        "https://drive.google.com/file/d/1E_7sG5LvB-4h016FIc7ofxb320C2Qmmk/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 13",
+        "https://drive.google.com/file/d/1GL_9y0g2e5VCIEd4E1H4e8xpTpbJM1hE/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 14",
+        "https://drive.google.com/file/d/1gtWnChfRjqcI_ltVN5mQAjCJH7cOC5TL/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 15",
+        "https://drive.google.com/file/d/1QlOTdklcRFK1rAL5ea6DSssjEkbH5-4y/view?usp=sharing"
+      ],
+      [
+        "Lab Experiment - 16",
+        ""
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": [
+      "Electrical Machines",
+      "EM1",
+      "Machines"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Measurement And Instrumentation",
+    "shortName": "MI",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1iWQ9FFBlQr2SBHviDD92cHILUCUU606Z/view?usp=share_link"
+      ],
+      [
+        "Notes Alternate (Complete)",
+        "https://drive.google.com/file/d/1YOW7NAR2X-M65OjsZn5ShMxmYuZ7thlt/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 1",
+        "https://drive.google.com/file/d/19wuCbmq5jBhI2-auDAuTeGZ8ERhTvcHt/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 2",
+        "https://drive.google.com/file/d/1e2lewwsPoHvJi3ov9aZXkkY9dGqZ2wjV/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 3",
+        "https://drive.google.com/file/d/1gnO6p5CpFfWJZO_32gStbcguExsj634h/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 4",
+        "https://drive.google.com/file/d/1e_CFD2q7CSvJo_pTUTI3tUHAB-leOn3c/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 5",
+        "https://drive.google.com/file/d/12Y79hkv3JVyVmhzz1Y1IdjxY3hjMFxRI/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 6",
+        "https://drive.google.com/file/d/1PgWrEusKm8edIqujhUIWtHBIgIr8RIi8/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 7",
+        "https://drive.google.com/file/d/18tdheX_cyb5GPgIS7nOfbTBEvt3n016m/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 8",
+        "https://drive.google.com/file/d/1Uxh9nG-NEFQ3HcYu--C2xEygyLsvUYP9/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 9",
+        "https://drive.google.com/file/d/1caGizMszYXKNBaLvWGX96GVVRYBhdCYT/view?usp=share_link"
+      ],
+      [
+        "Lab Record - 10",
+        "https://drive.google.com/file/d/1WXbD3oRI-lfhP_fGLXkTB5Kr0cRXYMmA/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Measurement and instrumentation",
+      "MI"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Applied linear algebra",
+    "shortName": "LA",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1UVzmIwtbekrlGEZbEqygwNWfoJ5PECIJ/view?usp=share_link"
+      ],
+      [
+        "Cheetsheet",
+        "https://drive.google.com/file/d/16YXg-Q_DpwsHBvjj0Sfb9cY2U02IfB6c/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 82,
+    "name": "Electronic Devices",
+    "shortName": "EDL",
+    "description": "",
+    "links": [
+      [
+        "Notes HandWritten",
+        "https://drive.google.com/file/d/1u_1xvwW7AhN9U55BkBJoN-1ff7ifqNV3/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 83,
+    "name": "Operating Systems",
+    "shortName": "OS",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1s1rwrjOEPf8wt1_XazzE-NsoIQQMnuyH/view?usp=share_link"
+      ],
+      [
+        "Important Algorithms",
+        "https://drive.google.com/file/d/1zF6wYsQK1f0474DhUvB0Mk3OsEp6ZVKS/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment",
+        "/under-construction"
+      ],
+      [
+        "Important Questions",
+        "https://docs.google.com/document/d/1E6oDZxGqEzKlzvj6O6YKTSZ811DR7mGe/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1Jnvyd7rW3RsN6U87jrRi-LnAAgQjQ2Xu/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 84,
+    "name": "Programming in Python",
+    "shortName": "Python",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/14h6XjO4cdp3m74add0unz5eMDd70KMmy/view?usp=share_link"
+      ],
+      [
+        "Cheetsheet",
+        "https://drive.google.com/file/d/1C8_ALkBjgGyu14Mhtv0k-quWZxjtcozy/view?usp=sharing"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 85,
+    "name": "Professional Ethics & Values",
+    "shortName": "PEV",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1uPYYkABheNXatPYMp7q4UKYH76yG6rGx/view?usp=share_link"
+      ],
+      [
+        "Notes-Alternate (Complete)",
+        "https://drive.google.com/drive/folders/12yLlub4Cd1az0aOVzKOgv-ekSjVRglT4?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1cinn5v-Bl902U3s3_HjsZfgiTVm2jJA5/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 86,
+    "name": "Engineering Economics",
+    "shortName": "Economics",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/14iH-yXuK1CaVnYv1HXNPhiTq7cQNcKDG/view?usp=sharing"
+      ],
+      [
+        "Notes Alternate (Complete)",
+        "https://drive.google.com/file/d/12_n20kdNTIbecVcFxXLDt_IQwQrP1hO4/view?usp=share_link"
+      ],
+      [
+        "Notes Alternate ",
+        "https://drive.google.com/file/d/1rCwPYuiufUYxDRZxtZgP8-j5e2_Pth_G/view?usp=sharing"
+      ],
+      [
+        "CI Tables",
+        "https://drive.google.com/file/d/1jUiJCerhMJRUFH9yGZGF1Guh_J_DrNDV/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 87,
+    "name": "Control Systems & Engineering",
+    "shortName": "CSE",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1Bh7fxB65RnxWRtGOWwiwCBAm_TWQ8jaa/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 1",
+        "https://drive.google.com/file/d/1InH7dmjQlPGaH3zj7ssCqSrXW-y-gidU/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 2",
+        "https://drive.google.com/file/d/1XAUNmekBFs2VKAiue51qfgjad0CmyvtE/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 3",
+        "https://drive.google.com/file/d/1B_FwGskNttyph9gRid9-qM0Yp59nwjap/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 4",
+        "https://drive.google.com/file/d/1KRHkY_qjl0Zas5GfmCYWuiMPg8Hs9Msz/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 5",
+        "https://drive.google.com/file/d/1WBo8N0DUq01B5364yJLUTbEU9AcNAEyX/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 6",
+        "https://drive.google.com/file/d/15pAJUAelcbg6BM1jNObvA3edu_su6xsM/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 7",
+        "https://drive.google.com/file/d/15pAJUAelcbg6BM1jNObvA3edu_su6xsM/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 8",
+        "https://drive.google.com/file/d/13MzwPypfTaTw6H3fc3FS9TrLixCo9_eI/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 9",
+        "https://drive.google.com/file/d/1K59o4Esm-ERF9vCk_vzHL_5vuhOk0KnF/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 10",
+        "https://drive.google.com/file/d/15Xw0Gnp7Ta2QPEgOlUut4jWlLuOFp-N8/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 88,
+    "name": "Digital Signal Processing",
+    "shortName": "DSP",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1TtOkvHKAJb4djoUdhQ6L7Pdn0gYtyf-t/view?usp=share_link"
+      ],
+      [
+        "Module 1(part-1)",
+        "https://drive.google.com/file/d/172cZb20wknV5zoOlCTvd-A7Tz77bWvbc/view?usp=share_link"
+      ],
+      [
+        "Module 1(part-2)",
+        "https://drive.google.com/file/d/1GpCQ82woWDvEr1t-tkWAVbiyOo21ZM-g/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-1)",
+        "https://drive.google.com/file/d/1Ya2_ziXcb0A0tkVjIes7Zfcs9HE7ufkp/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-2)",
+        "https://drive.google.com/file/d/1Pd0xhNtKQkAwI1UqDwK7tq5OQwTwl4j9/view?usp=share_link"
+      ],
+      [
+        "Module 3",
+        "https://drive.google.com/file/d/1EGsjFg_SC8pYIlEBLGtxRFT1fdHPibXq/view?usp=share_link"
+      ],
+      [
+        "Module 4",
+        "https://drive.google.com/file/d/17LsmYMC960EhmAFWREl-VZlOZavXJJV_/view?usp=share_link"
+      ],
+      [
+        "Module 5",
+        "https://drive.google.com/file/d/1kgAhpZ22jkis5RFqvO9njhNU3N21GO11/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 89,
+    "name": "Soft Computing",
+    "shortName": "SC",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1xK6FHjE3qoZePU7ZCIMbgKXSkb1YeEo7/view?usp=share_link"
+      ],
+      [
+        "Cheetsheet",
+        "https://drive.google.com/file/d/1ZBKin0YoGcEzLYjzNzwqSfIopTIjQpop/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 90,
+    "name": "Organisational Behaviour",
+    "shortName": "OB",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/drive/folders/1t_g5dRPfRIKTnD9u6WiBEVWxDKOWA-GK?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 91,
+    "name": "Database Management System",
+    "shortName": "DBMS",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1AnS0abz5yLu--gSQ9dMUaSCYXY4jq2Eb/view?usp=sharing"
+      ],
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1x5rWydf6w5PDhDULpNPN9z9DJvo5AdEz/view?usp=share_link"
+      ],
+      [
+        "Module 1",
+        "https://drive.google.com/file/d/1bmJYubFp7qGFYfzUWKoNvXL4wK1Bcm4u/view?usp=share_link"
+      ],
+      [
+        "Module 2",
+        "https://drive.google.com/file/d/1fKcboTd5pzST7Ew9pvZ6mpZCduOdsWnQ/view?usp=share_link"
+      ],
+      [
+        "Module 3",
+        "https://drive.google.com/file/d/1UA-ldBDv6fWgDI3SCO3OWOSr6mLiXREA/view?usp=sharing"
+      ],
+      [
+        "Module 4",
+        "https://drive.google.com/file/d/19mkLEvBOx19lV8TeL57Ad-afzYDs8kZW/view?usp=share_link"
+      ],
+      [
+        "Module 5",
+        "https://drive.google.com/file/d/1mUySz5pfh7TKaUIanXripydU-DFk5pxK/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 92,
+    "name": "Design and Analysis of Algorithms",
+    "shortName": "DAA",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1HYpgvmB8les2xYdaq_Gz--zCxnGlH6QR/view?usp=sharing"
+      ],
+      [
+        "Introduction_to_algorithms-3rd Edition.pdf",
+        "https://drive.google.com/file/d/1CdnUR3QhSfF2CUL8v5EasKPTjXLhJit5/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 93,
+    "name": "Biology for Engineers",
+    "shortName": "BIOLOGY",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1tSdVhKAfAypx5c5wQS-bNfQ_mqQylkXY/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "https://drive.google.com/file/d/1Ukt14ymJAqKk8iGYIyjxGYb6HLF_O6Jm/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/12B7mgXTDDY7x37x3Mh_hOWFP_VPD5u1S/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 94,
+    "name": "Micro Processors",
+    "shortName": "MPMC",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1AYNqPg-Eu_LL0-iS8VhbylKrFeyKeFdP/view?usp=share_link"
+      ],
+      [
+        "Notes-Alternate (Complete)",
+        "https://drive.google.com/file/d/1uj5-e10Te9vGkNH6H8isWottVBW3uvc6/view?usp=share_link"
+      ],
+      [
+        "Notes-Alternate (Complete)",
+        "https://drive.google.com/file/d/1Pt45BDotg8r8_L76NjFgSJ4IaSI5pWNQ/view?usp=share_link"
+      ],
+      [
+        "Lab Record Complete",
+        "https://drive.google.com/file/d/10hyxiQyCVwmRDfWHAV7OWvjBCjBOaJES/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ],
+      [
+        "Aditya Sahu",
+        "https://www.linkedin.com/in/adityasahu2000/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 95,
+    "name": "VLSI",
+    "shortName": "Vlsi",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1VQNpgjYQibYH7g7yF3lpp7HMrp_tJmE4/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 96,
+    "name": "Electrical Machines II",
+    "shortName": "EM-II",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1_k7-G4HnTtMJY5wEQhz8s0zkNobRzuko/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment-1",
+        "https://drive.google.com/file/d/1mqG1BFVYil7vpXsDwGUaGv61yDcyi80I/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment-2",
+        "https://drive.google.com/file/d/19N1_oRmA2QDfYWGEPVII6tUPGPNL9dOZ/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment-3",
+        "https://drive.google.com/file/d/1T239KsdlJ7yuZxWLYWFLl0HEuSpAfOm3/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": [
+      "Electrical Machines",
+      "EM II"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Internet of Things",
+    "shortName": "IoT",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1JS9Npk_9kuFGBa7eoaLnSkD0dacPBWLH/view?usp=share_link"
+      ],
+      [
+        "Chapter-1",
+        "https://drive.google.com/file/d/1mG1p_sWjDFp6nmubc-9gLsFdTvgDQqHh/view?usp=share_link"
+      ],
+      [
+        "Chapter-2",
+        "https://docs.google.com/presentation/d/17DruWfrQJlltT5fFSteSMlZ5MHYZ_jKX/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Chapter-3",
+        "https://drive.google.com/file/d/1LYdhDv5KsxYV8_a0KCejXOxYbsTcZLxQ/view?usp=share_link"
+      ],
+      [
+        "Chapter-4",
+        "https://drive.google.com/file/d/1QcnFkcWnl8TtK9bEj_MG5ZwtGtVOdEev/view?usp=share_link"
+      ],
+      [
+        "Chapter-5",
+        "https://drive.google.com/file/d/1_vEQf59Ik3xeGjFctwTwnzHcCYs9JRVf/view?usp=share_link"
+      ],
+      [
+        "Chapter-6",
+        "https://drive.google.com/file/d/1dOzMTPN6enGlQqNRGanZ_UVwMI_21lPL/view?usp=share_link"
+      ],
+      [
+        "Chapter-7",
+        "https://drive.google.com/file/d/1SlbWxoMtVkGAgY8_yJpjq5IO4YGz1Os2/view?usp=share_link"
+      ],
+      [
+        "Chapter-8",
+        "https://drive.google.com/file/d/1k6tE_GEJUwfBY1rLBiSPjibMPDC-23CS/view?usp=share_link"
+      ],
+      [
+        "Chapter-10",
+        "https://drive.google.com/file/d/17fLZ1iZ2Vs9DSmgcmFkRN9SwANADUKw0/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 98,
+    "name": "Advanced Java Programming",
+    "shortName": "AJP",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "/under-construction"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/1uOusFuSPHf7Skw5yg5o5VcgNO9IQqOdr/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": [
+      "Advanced Java Programming",
+      "AJP"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Virtual Instrumentation",
+    "shortName": "VI",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/drive/folders/1YqHH66IzYQavZuxI985mGkvOVkoHsHwj?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Virtual Instrumentation",
+      "VI",
+      "Instrumentation"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Introdcution to Thermodynamics",
+    "shortName": "Thermo",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1zDtTiyXngHTQn4sUICX5zi03ZzUdMHus/view?usp=share_link"
+      ],
+      [
+        "Notes Part-1",
+        "https://drive.google.com/file/d/1tbcV3Q6zglYQDllSFHlgDJVAIw6Ukd8s/view?usp=share_link"
+      ],
+      [
+        "Notes Part-2",
+        "https://drive.google.com/file/d/1tgf0x3h6DrFpu2TUdT3Ar3RRgj51dcu8/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": [
+      "Introduction to Thermodynamics",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Introduction to Semi-Conductor",
+    "shortName": "Semiconductor",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1-zYfZ3susXmU7ie1rYVsVEW1h-VdbCJ0/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": [
+      "Introduction to Semiconductor",
+      "Semiconductor"
+    ]
+  },
+  {
+    "year": true,
+    "id": 102,
+    "name": "EIE",
+    "shortName": "",
+    "description": "",
+    "links": [],
+    "contributors": [],
+    "tags": []
+  },
+  {
+    "id": 103,
+    "name": "Maths -III Complex Numbers",
+    "shortName": "Maths-3(EEE)",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1zOX8tNPoNA0bvsHRSRHn7hZt9SF8TNQk/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 104,
+    "name": "Biology for Engineers",
+    "shortName": "BIOLOGY",
+    "description": "",
+    "links": [
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1tSdVhKAfAypx5c5wQS-bNfQ_mqQylkXY/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "https://drive.google.com/file/d/1Ukt14ymJAqKk8iGYIyjxGYb6HLF_O6Jm/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "https://drive.google.com/file/d/12B7mgXTDDY7x37x3Mh_hOWFP_VPD5u1S/view?usp=share_link"
+      ]
+    ],
+    "contributors": [
+      [
+        "Gayatri Dash",
+        "https://www.linkedin.com/in/Gayatri-dash-1210/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 105,
+    "name": "Object-Oriented Programming using JAVA",
+    "shortName": "OOP",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/1L0qB1WlPnc6kbyBHbCvadeudo6Nn_FxS/view?usp=share_link"
+      ],
+      [
+        "lab Record Complete",
+        "https://drive.google.com/file/d/1m9xP50e_RUGW13qnQPfNM62RpH-N8cXx/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "Ananya",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 106,
+    "name": "Instrumentation Device and System",
+    "shortName": "IDS",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1eEu3rXKuIMq-Dh8L545VBpxvhZQZ7YR3/view?usp=share_link"
+      ],
+      [
+        "Module 1",
+        "https://drive.google.com/file/d/1jPphjLoC63vE4VOy2CP8rpdAEcurtnyA/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-1)",
+        "https://drive.google.com/file/d/1QvPPJcdPmsXhHc8xZGE6HwCSNAwu3LjY/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-2)",
+        "https://drive.google.com/file/d/1P-y_2U2Be_J6RYM9rRB_xDdx-Ca-gOKW/view?usp=share_link"
+      ],
+      [
+        "Module 3",
+        "https://drive.google.com/file/d/1s1DsjjdNxztafaH-mK_vQRHVJHWhUAd1/view?usp=share_link"
+      ],
+      [
+        "Module 4(part-1)",
+        "https://drive.google.com/file/d/1V2vd8O9NWpemjOM9pHzLn1NYgTak9457/view?usp=share_link"
+      ],
+      [
+        "Module 4(part-2)",
+        "https://drive.google.com/file/d/1s6QHIp7gCP5QixAZIe-UCuTIpGK6pXy4/view?usp=share_link"
+      ],
+      [
+        "Module 5",
+        "https://drive.google.com/file/d/1C1ZzvAZJCAUw1J18whoR3YlgsbwMQJvV/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 107,
+    "name": "Circuits & Signals",
+    "shortName": "CS",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1RcxzWGbpBUOmYFXk6MiNuTEoSbh_oMnd/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 1",
+        "https://drive.google.com/file/d/1L6TJYTiUry2qjap10PW3KsTeyaY5IVJx/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 2",
+        "https://drive.google.com/file/d/1vPMDSSnpvNcP3tufNRVi4-6XsLMfUEJJ/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 3",
+        "https://drive.google.com/file/d/1982MIV9n99YETui7IstjPpq8SwiWB7CM/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 4",
+        "https://drive.google.com/file/d/1oo261iRZtIyaj9VnWf9-g2taZhvghm5L/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 5",
+        "https://drive.google.com/file/d/1_zjE6QmQAkCXGa4hDqy5C68-HVNNcHi5/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 6",
+        "https://drive.google.com/file/d/1RySlbxKV_vOEOWGPzMgyvmhrYt4X6AzQ/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 7",
+        "https://drive.google.com/file/d/1OxeRZNLDVk-bbcurkDEmdX6K5rFhx2bp/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 9",
+        "https://drive.google.com/file/d/1b8GR8ry88mDV04WPvBidfAfc4FR7lel7/view?usp=share_link"
+      ],
+      [
+        "Lab Exp 10",
+        "https://drive.google.com/file/d/1hWF20HeHH4gXZdUUBDo3sCV-n_l6nMjU/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 108,
+    "name": "Analog Electronics Circuits",
+    "shortName": "AEC",
+    "description": "",
+    "links": [
+      [
+        "Notes Module 1 & 3(half)",
+        "https://drive.google.com/file/d/1lxwfvloeV72PNnSqPLzLZCogcLq4LPK_/view?usp=share_link"
+      ],
+      [
+        "Notes Module 2",
+        "https://drive.google.com/file/d/1sebPx7qM3lL5M1KAb1RqPjVfMug0vajD/view?usp=share_link"
+      ],
+      [
+        "Notes Module 5",
+        "https://drive.google.com/file/d/17SOXkAGtSeJBjSouXQgWcoHUUz6k03R6/view?usp=share_link"
+      ],
+      [
+        "Notes Remaining and Extras",
+        "https://drive.google.com/file/d/1N2gzEXolFFKjGx0ngEeRSrH87sdaQ369/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 109,
+    "name": "Engineering Mathematics IV (EIE)",
+    "shortName": "Maths 4",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1kWBSEO4_egkmi8lWWHpM2T4fT4cWaErW/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": [
+      "Engineering Mathematics IV",
+      "Maths 4",
+      "Maths 4 EIE"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Basic of Mechanical Engineering",
+    "shortName": "BME",
+    "description": "",
+    "links": [
+      [
+        "Notes MOD 1-2",
+        "https://drive.google.com/file/d/1v0FM3T6wRXPTQAgrwS-Gj99uGEchQSo4/view?usp=sharing"
+      ],
+      [
+        "Notes MOD 3-5",
+        "https://drive.google.com/file/d/14se7o8A2xAPnmRKsqZ-UrM9GEOulXEGq/view?usp=sharing"
+      ],
+      [
+        "Notes - SIT",
+        "https://drive.google.com/file/d/1_mHBTONySpwGvZw5gqruUz7jsx0wccAP/view?usp=sharing"
+      ],
+      [
+        "Yunus Cengel, Michael Boles-Thermodynamics_ An Engineering Approach-McGraw-Hill Education (2014)",
+        "https://drive.google.com/file/d/1WpM7mvp7CKIxpmsykiwWMuXHqUfms6LK/view?usp=share_link"
+      ],
+      [
+        "Steam Tables",
+        "https://drive.google.com/file/d/1rmgOmGRCq0XakcU-N1JM_Q-bQtoLwIER/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 111,
+    "name": "Control Systems & Engineering",
+    "shortName": "CSE",
+    "description": "",
+    "links": [
+      [
+        "Notes (Complete)",
+        "https://drive.google.com/file/d/1Bh7fxB65RnxWRtGOWwiwCBAm_TWQ8jaa/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 1",
+        "https://drive.google.com/file/d/1InH7dmjQlPGaH3zj7ssCqSrXW-y-gidU/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 2",
+        "https://drive.google.com/file/d/1XAUNmekBFs2VKAiue51qfgjad0CmyvtE/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 3",
+        "https://drive.google.com/file/d/1B_FwGskNttyph9gRid9-qM0Yp59nwjap/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 4",
+        "https://drive.google.com/file/d/1KRHkY_qjl0Zas5GfmCYWuiMPg8Hs9Msz/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 5",
+        "https://drive.google.com/file/d/1WBo8N0DUq01B5364yJLUTbEU9AcNAEyX/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 6",
+        "https://drive.google.com/file/d/15pAJUAelcbg6BM1jNObvA3edu_su6xsM/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 7",
+        "https://drive.google.com/file/d/15pAJUAelcbg6BM1jNObvA3edu_su6xsM/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 8",
+        "https://drive.google.com/file/d/13MzwPypfTaTw6H3fc3FS9TrLixCo9_eI/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 9",
+        "https://drive.google.com/file/d/1K59o4Esm-ERF9vCk_vzHL_5vuhOk0KnF/view?usp=share_link"
+      ],
+      [
+        "Lab Experiment - 10",
+        "https://drive.google.com/file/d/15Xw0Gnp7Ta2QPEgOlUut4jWlLuOFp-N8/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Jauhar Ahemad",
+        "https://www.linkedin.com/in/jauharahmad75/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 112,
+    "name": "Digital Electronics",
+    "shortName": "DEC",
+    "description": "",
+    "links": [
+      [
+        "Notes - Lecture Notes",
+        "https://drive.google.com/file/d/1nGWLCwRfiT2iczxt6NDmwexCY4vXEAwG/view?usp=sharing"
+      ],
+      [
+        "Digital_Design_M_Mano_Fifth_Edition",
+        "https://drive.google.com/file/d/1mp2_dpQJo8dIP19FkVGpWgqQ4mE3BoGK/view?usp=sharing"
+      ],
+      [
+        "Lab Record Experiment - (1-5)",
+        "https://drive.google.com/file/d/1Np2p6fGR01r_VzmzFFe7snTsbrUVG746/view?usp=share_link"
+      ],
+      [
+        "Lab Record Experiment - (6-10)",
+        "https://drive.google.com/file/d/1VYJptxrvuP-Z26-c0rW7wf4e8t-1tfQi/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 113,
+    "name": "Applied linear algebra",
+    "shortName": "LA",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1UVzmIwtbekrlGEZbEqygwNWfoJ5PECIJ/view?usp=share_link"
+      ],
+      [
+        "Cheetsheet",
+        "https://drive.google.com/file/d/16YXg-Q_DpwsHBvjj0Sfb9cY2U02IfB6c/view?usp=share_link"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 114,
+    "name": "Electronic Devices",
+    "shortName": "EDL",
+    "description": "",
+    "links": [
+      [
+        "Notes HandWritten",
+        "https://drive.google.com/file/d/1u_1xvwW7AhN9U55BkBJoN-1ff7ifqNV3/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 115,
+    "name": "Database Management System",
+    "shortName": "DBMS",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1AnS0abz5yLu--gSQ9dMUaSCYXY4jq2Eb/view?usp=sharing"
+      ],
+      [
+        "Notes(Complete)",
+        "https://drive.google.com/file/d/1x5rWydf6w5PDhDULpNPN9z9DJvo5AdEz/view?usp=share_link"
+      ],
+      [
+        "Module 1",
+        "https://drive.google.com/file/d/1bmJYubFp7qGFYfzUWKoNvXL4wK1Bcm4u/view?usp=share_link"
+      ],
+      [
+        "Module 2",
+        "https://drive.google.com/file/d/1fKcboTd5pzST7Ew9pvZ6mpZCduOdsWnQ/view?usp=share_link"
+      ],
+      [
+        "Module 3",
+        "https://drive.google.com/file/d/1UA-ldBDv6fWgDI3SCO3OWOSr6mLiXREA/view?usp=sharing"
+      ],
+      [
+        "Module 4",
+        "https://drive.google.com/file/d/19mkLEvBOx19lV8TeL57Ad-afzYDs8kZW/view?usp=share_link"
+      ],
+      [
+        "Module 5",
+        "https://drive.google.com/file/d/1mUySz5pfh7TKaUIanXripydU-DFk5pxK/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ],
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 116,
+    "name": "Design and Analysis of Algorithms",
+    "shortName": "DAA",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/1HYpgvmB8les2xYdaq_Gz--zCxnGlH6QR/view?usp=sharing"
+      ],
+      [
+        "Introduction_to_algorithms-3rd Edition.pdf",
+        "https://drive.google.com/file/d/1CdnUR3QhSfF2CUL8v5EasKPTjXLhJit5/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ],
+      [
+        "Silicon Institute of Technology, Bhubaneswar",
+        "https://www.silicon.ac.in/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 117,
+    "name": "Digital Signal Processing",
+    "shortName": "DSP",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1TtOkvHKAJb4djoUdhQ6L7Pdn0gYtyf-t/view?usp=share_link"
+      ],
+      [
+        "Module 1(part-1)",
+        "https://drive.google.com/file/d/172cZb20wknV5zoOlCTvd-A7Tz77bWvbc/view?usp=share_link"
+      ],
+      [
+        "Module 1(part-2)",
+        "https://drive.google.com/file/d/1GpCQ82woWDvEr1t-tkWAVbiyOo21ZM-g/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-1)",
+        "https://drive.google.com/file/d/1Ya2_ziXcb0A0tkVjIes7Zfcs9HE7ufkp/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-2)",
+        "https://drive.google.com/file/d/1Pd0xhNtKQkAwI1UqDwK7tq5OQwTwl4j9/view?usp=share_link"
+      ],
+      [
+        "Module 3",
+        "https://drive.google.com/file/d/1EGsjFg_SC8pYIlEBLGtxRFT1fdHPibXq/view?usp=share_link"
+      ],
+      [
+        "Module 4",
+        "https://drive.google.com/file/d/17LsmYMC960EhmAFWREl-VZlOZavXJJV_/view?usp=share_link"
+      ],
+      [
+        "Module 5",
+        "https://drive.google.com/file/d/1kgAhpZ22jkis5RFqvO9njhNU3N21GO11/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 118,
+    "name": "VLSI",
+    "shortName": "Vlsi",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1VQNpgjYQibYH7g7yF3lpp7HMrp_tJmE4/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 119,
+    "name": "Computer Organization and Architecture",
+    "shortName": "COA",
+    "description": "",
+    "links": [
+      [
+        "Notes",
+        "https://drive.google.com/file/d/10YumalIlPlJbfjzHj5cI88BCYmzRIoYr/view?usp=sharing"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish",
+        "https://anubhavp.dev/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 120,
+    "name": "Organisational Behaviour",
+    "shortName": "OB",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/drive/folders/1t_g5dRPfRIKTnD9u6WiBEVWxDKOWA-GK?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 121,
+    "name": "Programming in Python",
+    "shortName": "Python",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/14h6XjO4cdp3m74add0unz5eMDd70KMmy/view?usp=share_link"
+      ],
+      [
+        "Cheetsheet",
+        "https://drive.google.com/file/d/1C8_ALkBjgGyu14Mhtv0k-quWZxjtcozy/view?usp=sharing"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "Ananya Satpathy",
+        "https://www.linkedin.com/in/ananya-satpathy-98529a122/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 122,
+    "name": "Transducer and Communication System",
+    "shortName": "Trans",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1F6jeKn5SvxLuFqhxQk1cboU8jfxdmKpE/view?usp=share_link"
+      ],
+      [
+        "Notes-Alternate",
+        "https://drive.google.com/file/d/1gBYENZTC9cLMTryMOob3luTC1pNZEx1k/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Transducer",
+      "Communication System",
+      "Trans"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Internet of Things",
+    "shortName": "IoT",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1JS9Npk_9kuFGBa7eoaLnSkD0dacPBWLH/view?usp=share_link"
+      ],
+      [
+        "Chapter-1",
+        "https://drive.google.com/file/d/1mG1p_sWjDFp6nmubc-9gLsFdTvgDQqHh/view?usp=share_link"
+      ],
+      [
+        "Chapter-2",
+        "https://docs.google.com/presentation/d/17DruWfrQJlltT5fFSteSMlZ5MHYZ_jKX/edit?usp=share_link&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Chapter-3",
+        "https://drive.google.com/file/d/1LYdhDv5KsxYV8_a0KCejXOxYbsTcZLxQ/view?usp=share_link"
+      ],
+      [
+        "Chapter-4",
+        "https://drive.google.com/file/d/1QcnFkcWnl8TtK9bEj_MG5ZwtGtVOdEev/view?usp=share_link"
+      ],
+      [
+        "Chapter-5",
+        "https://drive.google.com/file/d/1_vEQf59Ik3xeGjFctwTwnzHcCYs9JRVf/view?usp=share_link"
+      ],
+      [
+        "Chapter-6",
+        "https://drive.google.com/file/d/1dOzMTPN6enGlQqNRGanZ_UVwMI_21lPL/view?usp=share_link"
+      ],
+      [
+        "Chapter-7",
+        "https://drive.google.com/file/d/1SlbWxoMtVkGAgY8_yJpjq5IO4YGz1Os2/view?usp=share_link"
+      ],
+      [
+        "Chapter-8",
+        "https://drive.google.com/file/d/1k6tE_GEJUwfBY1rLBiSPjibMPDC-23CS/view?usp=share_link"
+      ],
+      [
+        "Chapter-10",
+        "https://drive.google.com/file/d/17fLZ1iZ2Vs9DSmgcmFkRN9SwANADUKw0/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": []
+  },
+  {
+    "id": 124,
+    "name": "Instrumentation Device and System",
+    "shortName": "IDS",
+    "description": "",
+    "links": [
+      [
+        "Notes Complete",
+        "https://drive.google.com/file/d/1eEu3rXKuIMq-Dh8L545VBpxvhZQZ7YR3/view?usp=share_link"
+      ],
+      [
+        "Module 1",
+        "https://drive.google.com/file/d/1jPphjLoC63vE4VOy2CP8rpdAEcurtnyA/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-1)",
+        "https://drive.google.com/file/d/1QvPPJcdPmsXhHc8xZGE6HwCSNAwu3LjY/view?usp=share_link"
+      ],
+      [
+        "Module 2(part-2)",
+        "https://drive.google.com/file/d/1P-y_2U2Be_J6RYM9rRB_xDdx-Ca-gOKW/view?usp=share_link"
+      ],
+      [
+        "Module 3",
+        "https://drive.google.com/file/d/1s1DsjjdNxztafaH-mK_vQRHVJHWhUAd1/view?usp=share_link"
+      ],
+      [
+        "Module 4(part-1)",
+        "https://drive.google.com/file/d/1V2vd8O9NWpemjOM9pHzLn1NYgTak9457/view?usp=share_link"
+      ],
+      [
+        "Module 4(part-2)",
+        "https://drive.google.com/file/d/1s6QHIp7gCP5QixAZIe-UCuTIpGK6pXy4/view?usp=share_link"
+      ],
+      [
+        "Module 5",
+        "https://drive.google.com/file/d/1C1ZzvAZJCAUw1J18whoR3YlgsbwMQJvV/view?usp=share_link"
+      ],
+      [
+        "Important Questions",
+        "/under-construction"
+      ],
+      [
+        "Previous Year Papers",
+        "/under-construction"
+      ]
+    ],
+    "contributors": [
+      [
+        "David Raj Sekhar(LinkedIn)",
+        "https://www.linkedin.com/in/d-raj-sekhar-44a12a1b4/"
+      ],
+      [
+        "David Raj Sekhar(Instagram)",
+        "https://www.instagram.com/david_rajsekhar/"
+      ]
+    ],
+    "tags": [
+      "Instrumentation",
+      "Instrumentation Device System",
+      "IDS"
+    ]
+  },
+  {
+    "year": true,
+    "id": 125,
+    "name": "7-8 SEM",
+    "shortName": "",
+    "description": "",
+    "links": [],
+    "contributors": [],
+    "tags": []
+  },
+  {
+    "id": 126,
+    "name": "Entreprenuership Development",
+    "shortName": "ENTPD",
+    "description": "",
+    "links": [
+      [
+        "MOD 1",
+        "https://drive.google.com/file/d/1zutqnr4Fbs6GijQ81mzT0gWIOCvlxFRM/view?usp=sharing"
+      ],
+      [
+        "MOD 2",
+        "https://docs.google.com/presentation/d/1dMdHRJobmlj_azXf_P-T2dl_QE0ZW_gU/edit?usp=sharing&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "MOD 3",
+        "https://docs.google.com/presentation/d/1dMdHRJobmlj_azXf_P-T2dl_QE0ZW_gU/edit?usp=sharing&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "MOD 4-1",
+        "https://drive.google.com/file/d/1kbilDDaBJ7SoASMns4EiKH_4w93aWL1m/view?usp=sharing"
+      ],
+      [
+        "MOD 4-2",
+        "https://drive.google.com/file/d/1uEMwoVRSFARsSRluuAthWjWOv8jnOEa7/view?usp=sharing"
+      ],
+      [
+        "MOD 5",
+        "https://docs.google.com/presentation/d/1DYQExXNkNlnH9YGStxcxaOHI6wxSIxZp/edit?usp=sharing&ouid=104433455372147288977&rtpof=true&sd=true"
+      ],
+      [
+        "Important Questions",
+        "https://drive.google.com/file/d/1v1hCoaw7PO4FjYOifyxLBikSkuCDyggA/view?usp=sharing"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish Patnaik",
+        "https://anubhavp.dev"
+      ],
+      [
+        "Summet Naik",
+        "https://sumeetnaik.com"
+      ]
+    ],
+    "tags": [
+      "Interview Preparation",
+      "Interview Prep"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Financial Management",
+    "shortName": "FM",
+    "description": "",
+    "links": [
+      [
+        "Folder",
+        "https://drive.google.com/drive/folders/1b7slglEWK4IPjyiity5NQW2KCe1oh3WX?usp=sharing"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish Patnaik",
+        "https://anubhavp.dev"
+      ],
+      [
+        "Summet Naik",
+        "https://sumeetnaik.com"
+      ]
+    ],
+    "tags": [
+      "Interview Preparation",
+      "Interview Prep"
+    ]
+  },
+  {
+    "year": true,
+    "id": 128,
+    "name": "Interview Preparation",
+    "shortName": "",
+    "description": "",
+    "links": [],
+    "contributors": [],
+    "tags": []
+  },
+  {
+    "id": 129,
+    "name": "Interview Preparation",
+    "shortName": "Interview Prep",
+    "description": "",
+    "links": [
+      [
+        "Computer Networks",
+        "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/publicFiles/Computer%20Networking%20Notes%20for%20Tech%20Placements%20(1).pdf"
+      ],
+      [
+        "Database Management System",
+        "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/publicFiles/DBMS_Notes%20(2).pdf"
+      ],
+      [
+        "Object Oriented Programming Systems",
+        "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/publicFiles/Object%20Oriented%20Programming%20(1)%20(1).pdf"
+      ],
+      [
+        "Operating Systems",
+        "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/publicFiles/Operating%20System%20Notes.pdf"
+      ]
+    ],
+    "contributors": [
+      [
+        "Subhashish Patnaik",
+        "https://anubhavp.dev"
+      ],
+      [
+        "Apni Kaksha",
+        "https://www.apnacollege.in/notes"
+      ]
+    ],
+    "tags": [
+      "Interview Preparation",
+      "Interview Prep"
+    ]
+  }
+]
