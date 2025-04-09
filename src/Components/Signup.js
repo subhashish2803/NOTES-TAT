@@ -6,9 +6,9 @@ import Loader from './Loader'
 
 export default function Signup() {
   React.useEffect(() => {
-		document.title = 'Sign Up | RESOC'
+		document.title = 'Sign Up | VISTOFY'
 		return () => {
-			document.title = 'NOTES-SIT | RESOC'
+			document.title = 'NOTES-TAT | VISTOFY'
 		}
 	}, []);
   const nameRef = useRef()

@@ -9,14 +9,14 @@ export default function Notes() {
 	const [displayData, setDisplayData] = React.useState([])
 	const [isDark, setIsDark] = React.useState(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
 	React.useEffect(() => {
-		document.title = 'Notes | RESOC'
+		document.title = 'Notes | VISTOFY'
 		const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
 		const handleChange = (event) => setIsDark(event.matches ? true : false);
 
 		mediaQuery.addEventListener('change', handleChange);
 
 		return () => {
-			document.title = 'NOTES-SIT | RESOC'
+			document.title = 'NOTES-TAT | VISTOFY'
 			mediaQuery.removeEventListener('change', handleChange);
 		}
 	}, []);

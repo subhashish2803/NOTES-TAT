@@ -10,9 +10,9 @@ import Loader from './Loader'
 
 export default function Login() {
   React.useEffect(() => {
-		document.title = 'Login | RESOC'
+		document.title = 'Login | VISTOFY'
 		return () => {
-			document.title = 'NOTES-SIT | RESOC'
+			document.title = 'NOTES-TAT | VISTOFY'
 		}
 	}, []);
   const [isDark, setIsDark] = React.useState(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
