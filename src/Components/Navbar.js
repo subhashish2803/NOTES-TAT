@@ -101,7 +101,7 @@ export default function Header() {
     return (
       <Navbar
         sticky="top"
-        className="navbar navbar-expand-lg py-4 cdin"
+        className="navbar navbar-expand-lg py-4 cdin bg-gray-800"
         expand="lg"
       >
         <Container>
