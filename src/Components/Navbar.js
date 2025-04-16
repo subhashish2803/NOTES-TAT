@@ -101,7 +101,7 @@ export default function Header() {
     return (
       <Navbar
         sticky="top"
-        className="navbar navbar-expand-lg py-4 cdin bg-gray-800"
+        className="navbar navbar-expand-lg py-4 cdin"
         expand="lg"
       >
         <Container>
@@ -120,6 +120,7 @@ export default function Header() {
           </Nav>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
+          <h5 className="mt-2">VISTOFY</h5>
             <Nav className="me-auto my-2 my-lg-0">
               <Link to="/notes" className="nav-link">
                 Notes
