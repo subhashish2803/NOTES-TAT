@@ -28,9 +28,9 @@ export default function Collab() {
   //   const firestore = firebase.firestore();
 
   React.useEffect(() => {
-    document.title = "Collab | RESOC";
+    document.title = "Collab | VISTOFY";
     return () => {
-      document.title = "NOTES-SIT | RESOC";
+      document.title = "NOTES-TAT | VISTOFY";
     };
   }, []);
 

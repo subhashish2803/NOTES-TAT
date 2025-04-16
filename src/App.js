@@ -6,7 +6,7 @@ import { CupHot } from "react-bootstrap-icons";
 export default function App() {
   return (
     <>
-      <section className="py-4 px-4 px-sm-1 cdin">
+      <section className="py-4 px-4 px-sm-1 cdin ">
         <div className="container ">
           <div className="d-sm-flex align-items-center justify-content-between mainc">
             <div className="img-home">
@@ -63,21 +63,14 @@ export default function App() {
             sorts of fun new features!
           </p>
           <div>
-            <a
-              href="https://github.com/sponsors/fuzzymfx"
-              className="text-var"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <CupHot
-                size={30}
-                style={{
-                  marginRight: "10px",
-                  color: "#FF5E5B",
-                }}
-              />
-              Buy us a coffee!
-            </a>
+          <button
+  className="text-var bg-transparent border-0 d-flex align-items-center"
+  onClick={() => alert("Donation feature coming soon!")}
+>
+  <CupHot size={30} style={{ marginRight: "10px", color: "#FF5E5B" }} />
+  Buy us a coffee!
+</button>
+
           </div>
         </div>
       </div>

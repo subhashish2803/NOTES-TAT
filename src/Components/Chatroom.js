@@ -13,9 +13,9 @@ const firestore = firebase.firestore();
 
 function Chat() {
   useEffect(() => {
-    document.title = 'Community | RESOC';
+    document.title = 'Community | VISTOFY';
     return () => {
-      document.title = 'NOTES-SIT | RESOC';
+      document.title = 'NOTES-TAT | VISTOFY';
     };
   }, []);
 

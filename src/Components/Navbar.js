@@ -34,10 +34,12 @@ export default function Header() {
       setButtonText("Login");
     }
   }, [currentUser]);
+
   const [isDark, setIsDark] = React.useState(
     window.matchMedia &&
       window.matchMedia("(prefers-color-scheme: dark)").matches
   );
+
   React.useEffect(() => {
     const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
     const handleChange = (event) => setIsDark(event.matches ? true : false);
@@ -52,6 +54,7 @@ export default function Header() {
   if (isDark) {
     return (
       <Navbar
+        sticky="top"
         className="navbar navbar-expand-lg navbar-dark py-4 cdin"
         expand="lg"
       >
@@ -71,55 +74,20 @@ export default function Header() {
           </Nav>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
-            <Nav
-              className="me-auto my-2 my-lg-0"
-              // style={{ maxHeight: '100px' }}
-              // navbarScroll
-            >
+            <Nav className="me-auto my-2 my-lg-0">
               <Link to="/notes" className="nav-link">
                 Notes
               </Link>
-              {currentUser && (
-                <Link to="/taskboard" className="nav-link">
-                  Tasks
-                </Link>
-              )}
-              {!currentUser && (
-                <Link to="/login" className="nav-link">
-                  Tasks
-                </Link>
-              )}
-              {currentUser && (
-                <Link to="/community" className="nav-link">
-                  Community
-                </Link>
-              )}
-              {!currentUser && (
-                <Link to="/login" className="nav-link">
-                  Community
-                </Link>
-              )}
-              {currentUser && (
-                <Link to="/contributions" className="nav-link">
-                  Contributions
-                </Link>
-              )}
-              {!currentUser && (
-                <Link to="/login" className="nav-link">
-                  Contributions
-                </Link>
-              )}
             </Nav>
             <Nav>
               <Link to="/team" className="nav-link">
                 About Us
               </Link>
-              {currentUser && (
+              {currentUser ? (
                 <Link to="/profile" className="nav-link">
                   {buttonText}
                 </Link>
-              )}
-              {!currentUser && (
+              ) : (
                 <Link to="/login" className="nav-link">
                   {buttonText}
                 </Link>
@@ -131,7 +99,11 @@ export default function Header() {
     );
   } else {
     return (
-      <Navbar className="navbar navbar-expand-lg py-4 cdin" expand="lg">
+      <Navbar
+        sticky="top"
+        className="navbar navbar-expand-lg py-4 cdin"
+        expand="lg"
+      >
         <Container>
           <Nav>
             <Navbar.Brand>
@@ -148,55 +120,20 @@ export default function Header() {
           </Nav>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
-            <Nav
-              className="me-auto my-2 my-lg-0"
-              // style={{ maxHeight: '100px' }}
-              // navbarScroll
-            >
+            <Nav className="me-auto my-2 my-lg-0">
               <Link to="/notes" className="nav-link">
                 Notes
               </Link>
-              {currentUser && (
-                <Link to="/taskboard" className="nav-link">
-                  Tasks
-                </Link>
-              )}
-              {!currentUser && (
-                <Link to="/login" className="nav-link">
-                  Tasks
-                </Link>
-              )}
-              {currentUser && (
-                <Link to="/community" className="nav-link">
-                  Community
-                </Link>
-              )}
-              {!currentUser && (
-                <Link to="/login" className="nav-link">
-                  Community
-                </Link>
-              )}
-              {currentUser && (
-                <Link to="/contributions" className="nav-link">
-                  Contributions
-                </Link>
-              )}
-              {!currentUser && (
-                <Link to="/login" className="nav-link">
-                  Contributions
-                </Link>
-              )}
             </Nav>
             <Nav>
               <Link to="/team" className="nav-link">
                 About Us
               </Link>
-              {currentUser && (
+              {currentUser ? (
                 <Link to="/profile" className="nav-link">
                   {buttonText}
                 </Link>
-              )}
-              {!currentUser && (
+              ) : (
                 <Link to="/login" className="nav-link">
                   {buttonText}
                 </Link>

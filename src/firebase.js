@@ -1,21 +1,33 @@
-import firebase from 'firebase/compat/app'
-import 'firebase/compat/auth'
+// Firebase core imports
+import { initializeApp } from "firebase/app";
+import { getAuth } from "firebase/auth";
 import { getStorage } from "firebase/storage";
 import { getAnalytics } from "firebase/analytics";
-console.log("API KEY:", process.env.REACT_APP_FIREBASE_API_KEY);
 
+// Firebase config — yeh tera working config hai
+const firebaseConfig = {
+  apiKey: "AIzaSyCZ6LIiBqQApvo2fZAKbWV2cOI27azwTKI",
+  authDomain: "notes-app-5bb42.firebaseapp.com",
+  projectId: "notes-app-5bb42",
+  storageBucket: "notes-app-5bb42.appspot.com", // ✅ FIXED .app to .appspot.com
+  messagingSenderId: "243701445153",
+  appId: "1:243701445153:web:41d10142e092ef99e06960",
+  measurementId: "G-9T03W2ERN4"
+};
 
-require('firebase/compat/auth')
-const app = firebase.initializeApp({
-    apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
-    authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
-    projectId: process.env.REACT_APP_PROJECT_ID,
-    storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
-    appId: process.env.REACT_APP_FIREBASE_APP_ID,
-    measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID,
-})
-export const auth = app.auth()
-export default app
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+
+// ✅ Exports
+export const auth = getAuth(app);
 export const storage = getStorage(app);
-export const analytics = getAnalytics(app);
+
+let analytics;
+try {
+  analytics = getAnalytics(app);
+} catch (err) {
+  console.warn("Analytics not supported in this environment.");
+}
+export { analytics };
+
+export default app;

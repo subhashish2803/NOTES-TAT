@@ -32,7 +32,20 @@ export default function Notes() {
 
 	return (
 		<>
-			<section className="py-4 px-sm-5 px-4 cdin">
+		<div className="py-4 px-sm-5 px-4 cdin" style={{
+    backgroundImage: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1513077202514-c511b41bd4c7?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')`, // sample image URL
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat',
+    backgroundPosition: 'center',
+    backgroundAttachment: 'fixed',
+  }}>
+			<section className="py-4 px-sm-5 px-4 cdin" style={{
+    backgroundImage: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1513077202514-c511b41bd4c7?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')`, // sample image URL
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat',
+    backgroundPosition: 'center',
+    backgroundAttachment: 'fixed',
+  }}>
 				<div className="d-sm-flex align-items-center justify-content-between mainc">
 					<div className="img-home">
 						<h1 className="heading">NOTES<span></span></h1>
@@ -53,11 +66,60 @@ export default function Notes() {
 							<a target='_blank' rel="noreferrer"
 								href="https://drive.google.com/file/d/1bcWrFey-AJjkuj--SD2OR7cynqpjAmgr/view?usp=sharing" className=' text-var'>EIE</a>
 						</p>
+						<p className="lead my-4">
+							The only notes that you would ever need. <br />
+						</p>
+						MCA Syllabus
+						<p className='text-var'>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1MCA_SAMPLE_LINK/view?usp=sharing" className='text-var'>Semester-wise PDF</a>
+							<span className='mx-2'>|</span>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1MCA_SAMPLE_SUBJECTS/view?usp=sharing" className='text-var'>Subject List</a>
+							<span className='mx-2'>|</span>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1MCA_SAMPLE_NOTES/view?usp=sharing" className='text-var'>Important Notes</a>
+						</p>
+
+						<p className="lead my-4">
+							The only notes that you you would ever need. <br />
+						</p>
+						MBA Syllabus
+						<p className='text-var'>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1tDEfpGmiLjuT_QCfl42skYxPelJ3AMVS/view?usp=sharing" className=' text-var'>CSE</a>
+							<span className='mx-2'>|</span>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1fE9qyvjlzPeW8PP7Kg_z8ySjkzxEtzQ9/view?usp=sharing" className=' text-var'>ECE</a>
+							<span className='mx-2'>|</span>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1NHSTTkBaaDVOeoW9CkvCefDvcnbSVHju/view?usp=sharing" className=' text-var'>EEE</a>
+							<span className='mx-2'>|</span>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1bcWrFey-AJjkuj--SD2OR7cynqpjAmgr/view?usp=sharing" className=' text-var'>EIE</a>
+						</p>
+						<p className="lead my-4">
+							The only notes that you you would ever need. <br />
+						</p>
+						B.sc Bio Technology Syllabus
+						<p className='text-var'>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1tDEfpGmiLjuT_QCfl42skYxPelJ3AMVS/view?usp=sharing" className=' text-var'>CSE</a>
+							<span className='mx-2'>|</span>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1fE9qyvjlzPeW8PP7Kg_z8ySjkzxEtzQ9/view?usp=sharing" className=' text-var'>ECE</a>
+							<span className='mx-2'>|</span>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1NHSTTkBaaDVOeoW9CkvCefDvcnbSVHju/view?usp=sharing" className=' text-var'>EEE</a>
+							<span className='mx-2'>|</span>
+							<a target='_blank' rel="noreferrer"
+								href="https://drive.google.com/file/d/1bcWrFey-AJjkuj--SD2OR7cynqpjAmgr/view?usp=sharing" className=' text-var'>EIE</a>
+						</p>
 					</div>
 					<img className="img-fluid w-50 d-none d-sm-block" src={programming} alt="in office" />
 				</div>
 			</section>
-			<div className='px-1 px-sm-5'>
+			<div className='px-1 px-sm-5 mt-4'>
 				<div className="container px-sm-5">
 					<div className=" d-flex mb-3 justify-content-between">
 						<input style={{
@@ -101,6 +163,7 @@ export default function Notes() {
 				<a className='text-var' href='/community-guidelines'><b>Disclaimer</b></a>: Please go through our community guidelines for more information on contributions and sponsorships.
 				<br />
 				<Link to='/contributions' className='text-var'>Contribute to VISTOFY</Link>
+			</div>
 			</div>
 		</>
 	)
