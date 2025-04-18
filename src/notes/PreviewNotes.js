@@ -66,7 +66,14 @@ function PreviewNotes() {
 	return (
 		loading ? <Loader /> :
 			<>
-				<section className=" py-5 cdin px-4 px-sm-0">
+				<section className=" py-5 cdin px-4 px-sm-0"
+				style={{
+					backgroundImage: ` url('https://images.unsplash.com/photo-1513077202514-c511b41bd4c7?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')`, // sample image URL
+					backgroundSize: 'cover',
+					backgroundRepeat: 'no-repeat',
+					backgroundPosition: 'center',
+					backgroundAttachment: 'fixed',
+				  }}>
 					<div className="container">
 						<div className="d-sm-flex align-items-center justify-content-between mainc">
 							<div className="img-home">
@@ -92,7 +99,14 @@ function PreviewNotes() {
 						</div>
 					</div>
 				</section>
-				<div className=" px-3 px-sm-5 ">
+				<div className=" px-3 px-sm-5 "
+				style={{
+					backgroundImage: ` url('https://images.unsplash.com/photo-1513077202514-c511b41bd4c7?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')`, // sample image URL
+					backgroundSize: 'cover',
+					backgroundRepeat: 'no-repeat',
+					backgroundPosition: 'center',
+					backgroundAttachment: 'fixed',
+				  }}>
 					<h1 className='mt-3 ps-2'> Links</h1>
 					<div className='mt-3'>
 						<ul style={{
@@ -103,7 +117,14 @@ function PreviewNotes() {
 						</ul>
 					</div>
 				</div>
-				<div className=" px-3 p-sm-5 ">
+				<div className=" px-3 p-sm-5 "
+				style={{
+					backgroundImage: ` url('https://images.unsplash.com/photo-1513077202514-c511b41bd4c7?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')`, // sample image URL
+					backgroundSize: 'cover',
+					backgroundRepeat: 'no-repeat',
+					backgroundPosition: 'center',
+					backgroundAttachment: 'fixed',
+				  }}>
 					<h2 className='mt-3 ps-2'> Contributors</h2>
 					<div className='mt-3'>
 						<ul style={{
