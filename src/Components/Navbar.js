@@ -70,25 +70,59 @@ export default function Header() {
                   className="d-inline-block align-top"
                 />
               </Link>
-              
             </Navbar.Brand>
           </Nav>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
-            <Nav className="me-auto my-2 my-lg-0">
+            <Nav
+              className="me-auto my-2 my-lg-0"
+              // style={{ maxHeight: '100px' }}
+              // navbarScroll
+            >
               <Link to="/notes" className="nav-link">
                 Notes
               </Link>
+              {currentUser && (
+                <Link to="/taskboard" className="nav-link">
+                  Tasks
+                </Link>
+              )}
+              {!currentUser && (
+                <Link to="/login" className="nav-link">
+                  Tasks
+                </Link>
+              )}
+              {currentUser && (
+                <Link to="/community" className="nav-link">
+                  Community
+                </Link>
+              )}
+              {!currentUser && (
+                <Link to="/login" className="nav-link">
+                  Community
+                </Link>
+              )}
+              {currentUser && (
+                <Link to="/contributions" className="nav-link">
+                  Contributions
+                </Link>
+              )}
+              {!currentUser && (
+                <Link to="/login" className="nav-link">
+                  Contributions
+                </Link>
+              )}
             </Nav>
             <Nav>
               <Link to="/team" className="nav-link">
                 About Us
               </Link>
-              {currentUser ? (
+              {currentUser && (
                 <Link to="/profile" className="nav-link">
                   {buttonText}
                 </Link>
-              ) : (
+              )}
+              {!currentUser && (
                 <Link to="/login" className="nav-link">
                   {buttonText}
                 </Link>
@@ -122,21 +156,37 @@ export default function Header() {
           </Nav>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
-          
-            <Nav className="me-auto my-2 my-lg-0">
+            <Nav
+              className="me-auto my-2 my-lg-0"
+              // style={{ maxHeight: '100px' }}
+              // navbarScroll
+            >
               <Link to="/notes" className="nav-link">
                 Notes
               </Link>
+              
+              
+              {currentUser && (
+                <Link to="/contributions" className="nav-link">
+                  Contributions
+                </Link>
+              )}
+              {!currentUser && (
+                <Link to="/login" className="nav-link">
+                  Contributions
+                </Link>
+              )}
             </Nav>
             <Nav>
               <Link to="/team" className="nav-link">
                 About Us
               </Link>
-              {currentUser ? (
+              {currentUser && (
                 <Link to="/profile" className="nav-link">
                   {buttonText}
                 </Link>
-              ) : (
+              )}
+              {!currentUser && (
                 <Link to="/login" className="nav-link">
                   {buttonText}
                 </Link>
